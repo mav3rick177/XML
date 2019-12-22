@@ -1,0 +1,19 @@
+<!ELEMENT metiers-info (metier*)>
+<!ELEMENT metier (nom, salaire-moy, formations, experience, competences, taches?, secteurs?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT salaire-moy (#PCDATA)>
+<!ELEMENT formations (formation)>
+<!ELEMENT formation (type+)>
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST formation niveau CDATA #REQUIRED>
+<!ELEMENT experience EMPTY>
+<!ATTLIST experience minAnnee CDATA #REQUIRED>
+<!ELEMENT competences (competence+)>
+<!ELEMENT competence (#PCDATA)>
+<!ELEMENT taches (tache+)>
+<!ELEMENT tache (libele, description)>
+<!ELEMENT libele (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT secteurs (secteur+)>
+<!ELEMENT secteur (#PCDATA)>
+<!ATTLIST secteur typeSecteur (publique | priver) #REQUIRED >

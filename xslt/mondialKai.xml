@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europe superficie="2.653513184E7" population="8.34075369E8">
+   <pays name="Albania" code="AL" population="2821977">
+      <villes>
+         <ville>Tirana Tirane</ville>
+         <ville>Shkodër</ville>
+         <ville>Durrës</ville>
+         <ville>Vlorë</ville>
+         <ville>Elbasan</ville>
+         <ville>Korçë</ville>
+      </villes>
+      <aeroports>
+         <name>Tirana Rinas</name>
+      </aeroports>
+   </pays>
+   <pays name="Greece" code="GR" population="10816286">
+      <villes/>
+      <aeroports>
+         <name>Nikos Kazantzakis</name>
+         <name>Ioannina</name>
+         <name>Mikonos</name>
+         <name>Chios</name>
+         <name>Rhodes Diagoras</name>
+         <name>Eleftherios Venizelos Intl</name>
+         <name>Kefallinia</name>
+         <name>Megas Alexandros Intl</name>
+         <name>Ioannis Kapodistrias Intl</name>
+         <name>Makedonia</name>
+         <name>Souda</name>
+         <name>Samos</name>
+         <name>Kos</name>
+         <name>Mitilini</name>
+         <name>Araxos</name>
+         <name>Dionysios Solomos</name>
+         <name>Ikaria</name>
+         <name>Syros</name>
+      </aeroports>
+   </pays>
+   <pays name="North Macedonia" code="MK" population="2059794">
+      <villes>
+         <ville>Skopje</ville>
+         <ville>Kumanovo</ville>
+      </villes>
+      <aeroports>
+         <name>Skopje</name>
+      </aeroports>
+   </pays>
+   <pays name="Serbia" code="SRB" population="7120666">
+      <villes>
+         <ville>Beograd Belgrade</ville>
+         <ville>Novi Sad</ville>
+         <ville>Niš</ville>
+      </villes>
+      <aeroports>
+         <name>Beograd</name>
+         <name>Nis</name>
+      </aeroports>
+   </pays>
+   <pays name="Montenegro" code="MNE" population="620029">
+      <villes>
+         <ville>Podgorica</ville>
+      </villes>
+      <aeroports>
+         <name>Podgorica</name>
+      </aeroports>
+   </pays>
+   <pays name="Kosovo" code="KOS" population="1733872">
+      <villes>
+         <ville>Prishtine Pristina</ville>
+      </villes>
+      <aeroports>
+         <name>Pristina</name>
+      </aeroports>
+   </pays>
+   <pays name="Andorra" code="AND" population="78115">
+      <villes>
+         <ville>Andorra la Vella</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="France" code="F" population="64300821">
+      <villes/>
+      <aeroports>
+         <name>Basel Mulhouse</name>
+         <name>Provence</name>
+         <name>Mediterranee</name>
+         <name>Carpiquet</name>
+         <name>Angers-Loire Airport</name>
+         <name>Metz Nancy Lorraine</name>
+         <name>Orly</name>
+         <name>Garons</name>
+         <name>Rivesaltes</name>
+         <name>St Jacques</name>
+         <name>Saint Exupery</name>
+         <name>Merignac</name>
+         <name>Entzheim</name>
+         <name>Auvergne</name>
+         <name>Bellegarde</name>
+         <name>Lesquin</name>
+         <name>Charles De Gaulle</name>
+         <name>Campo Dell Oro</name>
+         <name>Val De Loire</name>
+         <name>Blagnac</name>
+         <name>Guipavas</name>
+         <name>Cote d'Azur</name>
+         <name>Nantes Atlantique</name>
+      </aeroports>
+   </pays>
+   <pays name="Spain" code="E" population="46815916">
+      <villes/>
+      <aeroports>
+         <name>Hierro</name>
+         <name>Santander</name>
+         <name>La Palma</name>
+         <name>Gran Canaria</name>
+         <name>Salamanca</name>
+         <name>Tenerife Norte</name>
+         <name>Malaga</name>
+         <name>Bilbao</name>
+         <name>Tenerife Sur</name>
+         <name>Talavera La Real</name>
+         <name>Alicante</name>
+         <name>Barcelona</name>
+         <name>Lanzarote</name>
+         <name>Vigo</name>
+         <name>Murcia San Javier</name>
+         <name>La Gomera Airport</name>
+         <name>Fuerteventura</name>
+         <name>Jerez</name>
+         <name>Son Sant Joan</name>
+         <name>Pamplona</name>
+         <name>Granada</name>
+         <name>Ibiza</name>
+         <name>Zaragoza Ab</name>
+         <name>Reus</name>
+         <name>San Sebastian</name>
+         <name>Barajas</name>
+         <name>Menorca</name>
+         <name>Valencia</name>
+         <name>Valladolid</name>
+         <name>Sevilla</name>
+         <name>A Coruna</name>
+         <name>Almeria</name>
+         <name>Santiago</name>
+      </aeroports>
+   </pays>
+   <pays name="Austria" code="A" population="8499759">
+      <villes/>
+      <aeroports>
+         <name>Salzburg</name>
+         <name>Linz</name>
+         <name>Innsbruck</name>
+         <name>Schwechat</name>
+         <name>Graz</name>
+         <name>Woerthersee International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Czech Republic" code="CZ" population="10562214">
+      <villes/>
+      <aeroports>
+         <name>Karlovy Vary</name>
+         <name>Pardubice</name>
+         <name>Vaclav Havel Airport</name>
+         <name>Mosnov</name>
+         <name>Brno-Tuřany</name>
+      </aeroports>
+   </pays>
+   <pays name="Germany" code="D" population="82521653">
+      <villes/>
+      <aeroports>
+         <name>Hannover</name>
+         <name>Hamburg</name>
+         <name>Paderborn Lippstadt</name>
+         <name>Westerland Sylt</name>
+         <name>Saarbrücken</name>
+         <name>Tegel</name>
+         <name>Neuenland</name>
+         <name>Schönefeld</name>
+         <name>Stuttgart</name>
+         <name>Lübeck</name>
+         <name>Leipzig Halle</name>
+         <name>Köln Bonn</name>
+         <name>Frankfurt Hahn</name>
+         <name>Frankfurt Main</name>
+         <name>Münster Osnabrück</name>
+         <name>Baden Airpark</name>
+         <name>Düsseldorf</name>
+         <name>Nürnberg</name>
+         <name>Dresden</name>
+         <name>Dortmund</name>
+         <name>Franz Josef Strauss</name>
+      </aeroports>
+   </pays>
+   <pays name="Hungary" code="H" population="9937628">
+      <villes/>
+      <aeroports>
+         <name>Ferihegy</name>
+      </aeroports>
+   </pays>
+   <pays name="Italy" code="I" population="59433744">
+      <villes/>
+      <aeroports>
+         <name>Malpensa</name>
+         <name>Firenze</name>
+         <name>Parma</name>
+         <name>Palermo</name>
+         <name>Perugia</name>
+         <name>Genova Sestri</name>
+         <name>Pisa</name>
+         <name>Pescara</name>
+         <name>Falconara</name>
+         <name>Bari</name>
+         <name>Elmas</name>
+         <name>Bolzano</name>
+         <name>Reggio Calabria</name>
+         <name>Rimini</name>
+         <name>Capodichino</name>
+         <name>Villafranca</name>
+         <name>Fiumicino</name>
+         <name>Venezia Tessera</name>
+         <name>Bergamo Orio Al Serio</name>
+         <name>Torino</name>
+         <name>Ronchi Dei Legionari</name>
+         <name>Bologna</name>
+         <name>Catania Fontanarossa</name>
+         <name>Lampedusa</name>
+         <name>Ciampino</name>
+         <name>Linate</name>
+      </aeroports>
+   </pays>
+   <pays name="Liechtenstein" code="FL" population="36149">
+      <villes>
+         <ville>Vaduz</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Slovakia" code="SK" population="5397036">
+      <villes/>
+      <aeroports>
+         <name>M R Stefanik</name>
+         <name>Kosice</name>
+      </aeroports>
+   </pays>
+   <pays name="Slovenia" code="SLO" population="2058821">
+      <villes>
+         <ville>Ljubljana</ville>
+         <ville>Maribor</ville>
+      </villes>
+      <aeroports>
+         <name>Ljubljana</name>
+      </aeroports>
+   </pays>
+   <pays name="Switzerland" code="CH" population="8139631">
+      <villes/>
+      <aeroports>
+         <name>Bern Belp</name>
+         <name>Lugano</name>
+         <name>EuroAirport Basel-Mulhouse-Freiburg</name>
+         <name>Zurich Kloten</name>
+         <name>Geneva Cointrin</name>
+         <name>St Gallen Altenrhein</name>
+      </aeroports>
+   </pays>
+   <pays name="Belarus" code="BY" population="9460692">
+      <villes/>
+      <aeroports>
+         <name>Minsk National</name>
+      </aeroports>
+   </pays>
+   <pays name="Latvia" code="LV" population="2201196">
+      <villes>
+         <ville>Rīga</ville>
+      </villes>
+      <aeroports>
+         <name>Riga Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Lithuania" code="LT" population="2979310">
+      <villes>
+         <ville>Vilnius</ville>
+         <ville>Kaunas</ville>
+         <ville>Klaipeda</ville>
+      </villes>
+      <aeroports>
+         <name>Kaunas Intl</name>
+         <name>Vilnius Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Poland" code="PL" population="38533789">
+      <villes/>
+      <aeroports>
+         <name>Balice</name>
+         <name>Pyrzowice</name>
+         <name>Bydgoszcz Ignacy Jan Paderewski Airport</name>
+         <name>Goleniow</name>
+         <name>Lech Walesa</name>
+         <name>Jasionka</name>
+         <name>Lawica</name>
+         <name>Strachowice</name>
+         <name>Lodz Wladyslaw Reymont Airport</name>
+         <name>Okecie</name>
+      </aeroports>
+   </pays>
+   <pays name="Ukraine" code="UA" population="45633637">
+      <villes/>
+      <aeroports>
+         <name>Donetsk Intl</name>
+         <name>Boryspil Intl</name>
+         <name>Osnova International Airport</name>
+         <name>Zhuliany Intl</name>
+         <name>Simferopol Intl</name>
+         <name>Uzhhorod International Airport</name>
+         <name>Dnipropetrovsk Intl</name>
+         <name>Ivano Frankivsk International Airport</name>
+         <name>Odesa Intl</name>
+         <name>Lviv Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Russia" code="R" population="143666931">
+      <villes/>
+      <aeroports>
+         <name>Khrabrovo</name>
+         <name>Murmansk</name>
+         <name>Petrozavodsk Airport</name>
+         <name>Talagi</name>
+         <name>Syktyvkar</name>
+         <name>Vorkuta Airport</name>
+         <name>Pobedilovo Airport</name>
+         <name>Pulkovo</name>
+         <name>Belgorod International Airport</name>
+         <name>Domododevo</name>
+         <name>Sheremetyevo</name>
+         <name>Vnukovo</name>
+         <name>Strigono</name>
+         <name>Cherepovets Airport</name>
+         <name>Kazan</name>
+         <name>Cheboksary Airport</name>
+         <name>Tambow</name>
+         <name>Chertovitskoye</name>
+         <name>Gumrak</name>
+         <name>Rostov Na Donu</name>
+         <name>Shpakovskoye</name>
+         <name>Sochi</name>
+         <name>Pashkovskiy</name>
+         <name>Elista Airport</name>
+         <name>Nalchik Airport</name>
+         <name>Grozny Airport</name>
+         <name>Uytash</name>
+         <name>Kurumoch</name>
+         <name>Ulyanovsk East Airport</name>
+         <name>Astrakhan</name>
+         <name>Izhevsk Airport</name>
+         <name>Bolshoye Savino</name>
+         <name>Ufa</name>
+         <name>Orenburg</name>
+         <name>Magnitogorsk</name>
+         <name>Orsk Airport</name>
+         <name>Koltsovo</name>
+         <name>Balandino</name>
+         <name>Roschino</name>
+         <name>Salekhard Airport</name>
+         <name>Novyi Urengoy</name>
+         <name>Khanty Mansiysk Airport</name>
+         <name>Surgut</name>
+         <name>Noyabrsk</name>
+         <name>Nizhnevartovsk</name>
+         <name>Omsk</name>
+         <name>Tolmachevo</name>
+         <name>Barnaul</name>
+         <name>Tomsk Bogashevo Airport</name>
+         <name>Kemerovo</name>
+         <name>Spichenkovo Airport</name>
+         <name>Alykel</name>
+         <name>Abakan</name>
+         <name>Emelyanovo</name>
+         <name>Bratsk</name>
+         <name>Irkutsk</name>
+         <name>Mukhino</name>
+         <name>Kadala</name>
+         <name>Ignatyevo</name>
+         <name>Yakutsk</name>
+         <name>Knevichi</name>
+         <name>Khabarovsk Novy</name>
+         <name>Khomutovo</name>
+         <name>Sokol</name>
+         <name>Yelizovo</name>
+      </aeroports>
+   </pays>
+   <pays name="Belgium" code="B" population="11099554">
+      <villes/>
+      <aeroports>
+         <name>Deurne</name>
+         <name>Brussels South</name>
+         <name>Aéroport de Liège</name>
+         <name>Brussels Natl</name>
+      </aeroports>
+   </pays>
+   <pays name="Luxembourg" code="L" population="524853">
+      <villes>
+         <ville>Luxembourg</ville>
+      </villes>
+      <aeroports>
+         <name>Luxembourg</name>
+      </aeroports>
+   </pays>
+   <pays name="Netherlands" code="NL" population="16843181">
+      <villes/>
+      <aeroports>
+         <name>Rotterdam</name>
+         <name>Eindhoven</name>
+         <name>Maastricht</name>
+         <name>Schiphol</name>
+      </aeroports>
+   </pays>
+   <pays name="Bosnia and Herzegovina" code="BIH" population="3791622">
+      <villes/>
+      <aeroports>
+         <name>Sarajevo</name>
+      </aeroports>
+   </pays>
+   <pays name="Croatia" code="HR" population="4290612">
+      <villes>
+         <ville>Zagreb</ville>
+         <ville>Split</ville>
+         <ville>Rijeka</ville>
+         <ville>Osijek</ville>
+         <ville>Zadar</ville>
+      </villes>
+      <aeroports>
+         <name>Split</name>
+         <name>Zagreb</name>
+         <name>Rijeka</name>
+         <name>Zadar</name>
+      </aeroports>
+   </pays>
+   <pays name="Bulgaria" code="BG" population="7284552">
+      <villes>
+         <ville>Sofia</ville>
+         <ville>Plovdiv</ville>
+         <ville>Varna</ville>
+         <ville>Burgas</ville>
+         <ville>Ruse</ville>
+         <ville>Stara Zagora</ville>
+      </villes>
+      <aeroports>
+         <name>Burgas</name>
+         <name>Varna</name>
+         <name>Plovdiv</name>
+         <name>Sofia</name>
+      </aeroports>
+   </pays>
+   <pays name="Romania" code="RO" population="20121641">
+      <villes/>
+      <aeroports>
+         <name>Iasi</name>
+         <name>Sibiu</name>
+         <name>Tautii Magheraus</name>
+         <name>Stefan Cel Mare</name>
+         <name>Cluj Napoca</name>
+         <name>Traian Vuia</name>
+         <name>Bacau</name>
+         <name>Oradea</name>
+         <name>Henri Coanda</name>
+         <name>Satu Mare</name>
+         <name>Arad</name>
+      </aeroports>
+   </pays>
+   <pays name="Turkey" code="TR" population="75627384">
+      <villes/>
+      <aeroports>
+         <name>Antalya</name>
+         <name>Elazig</name>
+         <name>Kars Airport</name>
+         <name>Samsun-Carsamba Airport</name>
+         <name>Konya</name>
+         <name>Adiyaman Airport</name>
+         <name>Batman</name>
+         <name>Adana</name>
+         <name>Adnan Menderes</name>
+         <name>Van</name>
+         <name>Sivas</name>
+         <name>Kapadokya</name>
+         <name>Esenboga</name>
+         <name>Erzurum</name>
+         <name>Erzincan</name>
+         <name>Kahramanmaras Airport</name>
+         <name>Erhac</name>
+         <name>Diyarbakir</name>
+         <name>Erkilet</name>
+         <name>Trabzon</name>
+         <name>Ataturk</name>
+         <name>Sabiha Gokcen</name>
+         <name>Oguzeli</name>
+         <name>Hatay Airport</name>
+         <name>Agri Airport</name>
+         <name>Anadolu Airport</name>
+         <name>Mardin Airport</name>
+         <name>Cardak</name>
+         <name>Mus Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Denmark" code="DK" population="5678348">
+      <villes/>
+      <aeroports>
+         <name>Kastrup</name>
+         <name>Aalborg</name>
+         <name>Aarhus</name>
+         <name>Bornholm Ronne</name>
+         <name>Esbjerg</name>
+      </aeroports>
+   </pays>
+   <pays name="Estonia" code="EW" population="1294455">
+      <villes>
+         <ville>Tallinn</ville>
+         <ville>Tartu</ville>
+      </villes>
+      <aeroports>
+         <name>Tallinn-Ulemiste International</name>
+      </aeroports>
+   </pays>
+   <pays name="Faroe Islands" code="FARX" population="50494">
+      <villes>
+         <ville>Tórshavn</ville>
+      </villes>
+      <aeroports>
+         <name>Vagar</name>
+      </aeroports>
+   </pays>
+   <pays name="Finland" code="SF" population="5513130">
+      <villes/>
+      <aeroports>
+         <name>Mariehamn</name>
+         <name>Oulu</name>
+         <name>Helsinki Vantaa</name>
+         <name>Pori</name>
+         <name>Joensuu</name>
+         <name>Rovaniemi</name>
+         <name>Jyväskylä</name>
+         <name>Kuopio</name>
+         <name>Lappeenranta</name>
+         <name>Tampere Pirkkala</name>
+         <name>Turku</name>
+         <name>Vaasa</name>
+      </aeroports>
+   </pays>
+   <pays name="Norway" code="N" population="5051275">
+      <villes/>
+      <aeroports>
+         <name>Geiteryggen</name>
+         <name>Vadsoe</name>
+         <name>Framnes</name>
+         <name>Gardermoen</name>
+         <name>Moss</name>
+         <name>Aro</name>
+         <name>Kjevik</name>
+         <name>Sola</name>
+         <name>Vaernes</name>
+         <name>Flesland</name>
+         <name>Hammerfest Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Sweden" code="S" population="9555893">
+      <villes/>
+      <aeroports>
+         <name>Kronoberg</name>
+         <name>Visby</name>
+         <name>Kungsangen</name>
+         <name>Kallax</name>
+         <name>Saab</name>
+         <name>Angelholm-Helsingborg Airport</name>
+         <name>Kristianstad</name>
+         <name>Bromma</name>
+         <name>Kalmar</name>
+         <name>Umea</name>
+         <name>Skavsta</name>
+         <name>Västerås</name>
+         <name>Halmstad</name>
+         <name>Jönköping</name>
+         <name>Östersund Airport</name>
+         <name>Örebro</name>
+         <name>Landvetter</name>
+         <name>Save</name>
+         <name>Arlanda</name>
+         <name>Sturup</name>
+         <name>Karlstad Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Monaco" code="MC" population="36845">
+      <villes>
+         <ville>Monaco Monaco-Ville</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Gibraltar" code="GBZ" population="32577">
+      <villes>
+         <ville>Gibraltar</ville>
+      </villes>
+      <aeroports>
+         <name>Gibraltar</name>
+      </aeroports>
+   </pays>
+   <pays name="Guernsey" code="GBG" population="64540">
+      <villes>
+         <ville>Saint Peter Port</ville>
+      </villes>
+      <aeroports>
+         <name>Guernsey</name>
+      </aeroports>
+   </pays>
+   <pays name="Holy See" code="V" population="842">
+      <villes>
+         <ville>Vatican City</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Iceland" code="IS" population="329100">
+      <villes>
+         <ville>Reykjavik</ville>
+         <ville>Keflavik</ville>
+         <ville>Hafnarfjordur</ville>
+         <ville>Akureyri</ville>
+      </villes>
+      <aeroports>
+         <name>Keflavik International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Ireland" code="IRL" population="4588252">
+      <villes>
+         <ville>Dublin</ville>
+         <ville>Cork</ville>
+         <ville>Galway</ville>
+         <ville>Limerick</ville>
+      </villes>
+      <aeroports>
+         <name>Shannon</name>
+         <name>Cork</name>
+         <name>Dublin</name>
+      </aeroports>
+   </pays>
+   <pays name="San Marino" code="RSM" population="32440">
+      <villes>
+         <ville>San Marino</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Jersey" code="GBJ" population="97857">
+      <villes>
+         <ville>Saint Helier</ville>
+      </villes>
+      <aeroports>
+         <name>Jersey</name>
+      </aeroports>
+   </pays>
+   <pays name="Malta" code="M" population="417432">
+      <villes>
+         <ville>Valletta</ville>
+         <ville>Victoria</ville>
+      </villes>
+      <aeroports>
+         <name>Luqa</name>
+      </aeroports>
+   </pays>
+   <pays name="Isle of Man" code="GBM" population="84497">
+      <villes>
+         <ville>Douglas</ville>
+      </villes>
+      <aeroports>
+         <name>Isle Of Man</name>
+      </aeroports>
+   </pays>
+   <pays name="Moldova" code="MD" population="3559541">
+      <villes>
+         <ville>Chişinău</ville>
+         <ville>Tiraspol</ville>
+         <ville>Bălţi</ville>
+      </villes>
+      <aeroports>
+         <name>Chisinau Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Portugal" code="P" population="10561614">
+      <villes/>
+      <aeroports>
+         <name>Faro</name>
+         <name>Flores</name>
+         <name>Portela</name>
+         <name>Porto Santo</name>
+         <name>Graciosa</name>
+         <name>Sao Jorge</name>
+         <name>Corvo Airport</name>
+         <name>Santa Maria</name>
+         <name>Madeira</name>
+         <name>Pico</name>
+         <name>Lajes</name>
+         <name>Porto</name>
+         <name>Ponta Delgada</name>
+      </aeroports>
+   </pays>
+   <pays name="Svalbard" code="SVAX" population="1872">
+      <villes>
+         <ville>Longyearbyen</ville>
+      </villes>
+      <aeroports>
+         <name>Longyear</name>
+      </aeroports>
+   </pays>
+   <pays name="United Kingdom" code="GB" population="64105654">
+      <villes/>
+      <aeroports>
+         <name>Stansted</name>
+         <name>Leeds Bradford</name>
+         <name>City</name>
+         <name>Gatwick</name>
+         <name>Heathrow</name>
+         <name>Liverpool</name>
+         <name>Birmingham</name>
+         <name>Tiree</name>
+         <name>Blackpool</name>
+         <name>Benbecula</name>
+         <name>Dyce</name>
+         <name>Aldergrove</name>
+         <name>City</name>
+         <name>Exeter</name>
+         <name>Newcastle</name>
+         <name>Nottingham East Midlands</name>
+         <name>Norwich</name>
+         <name>Bournemouth</name>
+         <name>Dundee</name>
+         <name>Robin Hood Doncaster Sheffield Airport</name>
+         <name>Durham Tees Valley Airport</name>
+         <name>Manchester</name>
+         <name>Edinburgh</name>
+         <name>Southampton</name>
+         <name>Luton</name>
+         <name>Barra Airport</name>
+         <name>Bristol</name>
+         <name>Humberside</name>
+         <name>Islay</name>
+         <name>Gloucestershire</name>
+         <name>Glasgow</name>
+         <name>Southend</name>
+         <name>Cardiff</name>
+         <name>Kirkwall</name>
+      </aeroports>
+   </pays>
+   <pays name="Kazakhstan" code="KAZ" population="17165239">
+      <villes/>
+      <aeroports>
+         <name>Semipalatinsk</name>
+         <name>Uralsk</name>
+         <name>Atyrau</name>
+         <name>Aktau</name>
+         <name>Zhezkazgan Airport</name>
+         <name>Kostanay West Airport</name>
+         <name>Ust Kamenogorsk Airport</name>
+         <name>Shymkent</name>
+         <name>Aktyubinsk</name>
+         <name>Almaty</name>
+         <name>Astana Intl</name>
+         <name>Sary-Arka</name>
+         <name>Pavlodar</name>
+         <name>Kzylorda</name>
+      </aeroports>
+   </pays>
+   <pays name="Cyprus" code="CY" population="840407">
+      <villes>
+         <ville>Lefkosia Nicosia</ville>
+         <ville>Larnaka Larnaca</ville>
+         <ville>Lemesos Limassol</ville>
+      </villes>
+      <aeroports>
+         <name>Larnaca</name>
+         <name>Ercan International Airport</name>
+      </aeroports>
+   </pays>
+</europe>
+<asia superficie="4.96848256E7" population="4.47407791E9">
+   <pays name="Russia" code="R" population="143666931">
+      <villes/>
+      <aeroports>
+         <name>Khrabrovo</name>
+         <name>Murmansk</name>
+         <name>Petrozavodsk Airport</name>
+         <name>Talagi</name>
+         <name>Syktyvkar</name>
+         <name>Vorkuta Airport</name>
+         <name>Pobedilovo Airport</name>
+         <name>Pulkovo</name>
+         <name>Belgorod International Airport</name>
+         <name>Domododevo</name>
+         <name>Sheremetyevo</name>
+         <name>Vnukovo</name>
+         <name>Strigono</name>
+         <name>Cherepovets Airport</name>
+         <name>Kazan</name>
+         <name>Cheboksary Airport</name>
+         <name>Tambow</name>
+         <name>Chertovitskoye</name>
+         <name>Gumrak</name>
+         <name>Rostov Na Donu</name>
+         <name>Shpakovskoye</name>
+         <name>Sochi</name>
+         <name>Pashkovskiy</name>
+         <name>Elista Airport</name>
+         <name>Nalchik Airport</name>
+         <name>Grozny Airport</name>
+         <name>Uytash</name>
+         <name>Kurumoch</name>
+         <name>Ulyanovsk East Airport</name>
+         <name>Astrakhan</name>
+         <name>Izhevsk Airport</name>
+         <name>Bolshoye Savino</name>
+         <name>Ufa</name>
+         <name>Orenburg</name>
+         <name>Magnitogorsk</name>
+         <name>Orsk Airport</name>
+         <name>Koltsovo</name>
+         <name>Balandino</name>
+         <name>Roschino</name>
+         <name>Salekhard Airport</name>
+         <name>Novyi Urengoy</name>
+         <name>Khanty Mansiysk Airport</name>
+         <name>Surgut</name>
+         <name>Noyabrsk</name>
+         <name>Nizhnevartovsk</name>
+         <name>Omsk</name>
+         <name>Tolmachevo</name>
+         <name>Barnaul</name>
+         <name>Tomsk Bogashevo Airport</name>
+         <name>Kemerovo</name>
+         <name>Spichenkovo Airport</name>
+         <name>Alykel</name>
+         <name>Abakan</name>
+         <name>Emelyanovo</name>
+         <name>Bratsk</name>
+         <name>Irkutsk</name>
+         <name>Mukhino</name>
+         <name>Kadala</name>
+         <name>Ignatyevo</name>
+         <name>Yakutsk</name>
+         <name>Knevichi</name>
+         <name>Khabarovsk Novy</name>
+         <name>Khomutovo</name>
+         <name>Sokol</name>
+         <name>Yelizovo</name>
+      </aeroports>
+   </pays>
+   <pays name="Turkey" code="TR" population="75627384">
+      <villes/>
+      <aeroports>
+         <name>Antalya</name>
+         <name>Elazig</name>
+         <name>Kars Airport</name>
+         <name>Samsun-Carsamba Airport</name>
+         <name>Konya</name>
+         <name>Adiyaman Airport</name>
+         <name>Batman</name>
+         <name>Adana</name>
+         <name>Adnan Menderes</name>
+         <name>Van</name>
+         <name>Sivas</name>
+         <name>Kapadokya</name>
+         <name>Esenboga</name>
+         <name>Erzurum</name>
+         <name>Erzincan</name>
+         <name>Kahramanmaras Airport</name>
+         <name>Erhac</name>
+         <name>Diyarbakir</name>
+         <name>Erkilet</name>
+         <name>Trabzon</name>
+         <name>Ataturk</name>
+         <name>Sabiha Gokcen</name>
+         <name>Oguzeli</name>
+         <name>Hatay Airport</name>
+         <name>Agri Airport</name>
+         <name>Anadolu Airport</name>
+         <name>Mardin Airport</name>
+         <name>Cardak</name>
+         <name>Mus Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Afghanistan" code="AFG" population="26023100">
+      <villes>
+         <ville>Kabul</ville>
+         <ville>Herat</ville>
+         <ville>Kandahar</ville>
+         <ville>Mazar-i-Sharif</ville>
+      </villes>
+      <aeroports>
+         <name>Herat</name>
+         <name>Kabul Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="China" code="CN" population="1360720000">
+      <villes/>
+      <aeroports>
+         <name>Xiaoshan</name>
+         <name>Gaoqi</name>
+         <name>Dongshan</name>
+         <name>Xiangfan Airport</name>
+         <name>Qingshan</name>
+         <name>Meilan</name>
+         <name>Baita Airport</name>
+         <name>Capital Intl</name>
+         <name>Pudong</name>
+         <name>Ningbo Lishe</name>
+         <name>Wanzhou Wuqiao Airport</name>
+         <name>Tianhe</name>
+         <name>Wuxi Airport</name>
+         <name>Fuzhou Changle</name>
+         <name>Wenzhou Longwan Airport</name>
+         <name>Yinchuan</name>
+         <name>Zhuhai Airport</name>
+         <name>Taiping</name>
+         <name>Jiamusi Airport</name>
+         <name>Changchun</name>
+         <name>Xinzheng</name>
+         <name>Lanzhou Airport</name>
+         <name>Shijiazhuang Daguocun International Airport</name>
+         <name>Jiangbei</name>
+         <name>Huanghua</name>
+         <name>Beihai Airport</name>
+         <name>Tongliao Airport</name>
+         <name>Changbei Intl</name>
+         <name>Wujiaba</name>
+         <name>Binhai</name>
+         <name>Baotou Airport</name>
+         <name>Qiqihar Sanjiazi Airport</name>
+         <name>Wuxu</name>
+         <name>Lukou</name>
+         <name>Diwopu</name>
+         <name>Nantong Airport</name>
+         <name>Mianyang Airport</name>
+         <name>Wusu</name>
+         <name>Baiyun Intl</name>
+         <name>Luzhou Airport</name>
+         <name>Shubuling Airport</name>
+         <name>Lhasa-Gonggar</name>
+         <name>Weihai Airport</name>
+         <name>Mudanjiang</name>
+         <name>Zhoushuizi</name>
+         <name>Jinan</name>
+         <name>Phoenix International</name>
+         <name>Longdongbao</name>
+         <name>Baoan Intl</name>
+         <name>Shuangliu</name>
+         <name>Yanji Airport</name>
+         <name>Laishan</name>
+         <name>Yancheng Airport</name>
+         <name>Yichang Airport</name>
+         <name>Yibin</name>
+         <name>Xuzhou Guanyin Airport</name>
+         <name>Xining Caojiabao Airport</name>
+         <name>Xianyang</name>
+         <name>Luogang</name>
+         <name>Nanyang Airport</name>
+         <name>Manzhouli</name>
+         <name>Yushu Batang</name>
+         <name>Anqing Airport</name>
+         <name>Changde Airport</name>
+         <name>Kashi</name>
+         <name>Ganzhou Airport</name>
+         <name>Aksu Airport</name>
+         <name>Korla Airport</name>
+         <name>Luoyang Airport</name>
+         <name>Lianyungang Airport</name>
+         <name>Bailian Airport</name>
+         <name>Weifang Airport</name>
+         <name>Chaoyang Airport</name>
+         <name>Changzhi Airport</name>
+         <name>Chifeng Airport</name>
+         <name>Dongying Airport</name>
+         <name>Nanchong Airport</name>
+         <name>Jiujiang Lushan Airport</name>
+         <name>Jingdezhen Airport</name>
+         <name>Zhanjiang Airport</name>
+         <name>Wuhai</name>
+         <name>Guangyuan Airport</name>
+         <name>Zhoushan Airport</name>
+         <name>Jinzhou Airport</name>
+         <name>Jining Airport </name>
+         <name>Quzhou Airport</name>
+         <name>Ulanhot Airport</name>
+         <name>Hami Airport</name>
+         <name>Yining Airport</name>
+         <name>Liangjiang</name>
+         <name>Changzhou</name>
+         <name>Jieyang Chaoshan International Airport</name>
+         <name>Datong Airport</name>
+         <name>Liuting</name>
+         <name>Dandong</name>
+         <name>Shenyang Taoxian International Airport</name>
+         <name>Hongqiao Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Iran" code="IR" population="79926270">
+      <villes/>
+      <aeroports>
+         <name>Ahwaz</name>
+         <name>Abadan</name>
+         <name>Shiraz Shahid Dastghaib Intl</name>
+         <name>Esfahan Shahid Beheshti Intl</name>
+         <name>Imam Khomeini</name>
+         <name>Bushehr</name>
+         <name>Mashhad</name>
+         <name>Tabriz Intl</name>
+         <name>Bandar Abbas Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Pakistan" code="PK" population="207776954">
+      <villes/>
+      <aeroports>
+         <name>Chaklala</name>
+         <name>Jinnah Intl</name>
+         <name>Allama Iqbal Intl</name>
+         <name>Faisalabad Intl</name>
+         <name>Sukkur</name>
+         <name>Sialkot Airport</name>
+         <name>Sheikh Zayed</name>
+         <name>Quetta</name>
+         <name>Peshawar Intl</name>
+         <name>Multan Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Tajikistan" code="TAD" population="8161100">
+      <villes/>
+      <aeroports>
+         <name>Dushanbe</name>
+         <name>Kulob Airport</name>
+         <name>Khudzhand Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Turkmenistan" code="TM" population="6550000">
+      <villes/>
+      <aeroports>
+         <name>Ashgabat</name>
+      </aeroports>
+   </pays>
+   <pays name="Uzbekistan" code="UZB" population="32120500">
+      <villes/>
+      <aeroports>
+         <name>Bukhara</name>
+         <name>Urgench Airport</name>
+         <name>Termez Airport</name>
+         <name>Yuzhny</name>
+         <name>Nukus Airport</name>
+         <name>Fergana Airport</name>
+         <name>Samarkand</name>
+      </aeroports>
+   </pays>
+   <pays name="Armenia" code="ARM" population="3026879">
+      <villes>
+         <ville>Yerevan</ville>
+      </villes>
+      <aeroports>
+         <name>Zvartnots</name>
+      </aeroports>
+   </pays>
+   <pays name="Georgia" code="GE" population="4483800">
+      <villes>
+         <ville>Tbilisi</ville>
+         <ville>Kutaisi</ville>
+         <ville>Batumi</ville>
+         <ville>Sokhumi Sukhumi</ville>
+      </villes>
+      <aeroports>
+         <name>Tbilisi</name>
+         <name>Batumi</name>
+         <name>Kopitnari</name>
+      </aeroports>
+   </pays>
+   <pays name="Azerbaijan" code="AZ" population="9356500">
+      <villes>
+         <ville>Baku</ville>
+         <ville>Ganja</ville>
+         <ville>Sumgayit Sumqayit</ville>
+      </villes>
+      <aeroports>
+         <name>Heydar Aliyev</name>
+      </aeroports>
+   </pays>
+   <pays name="Bahrain" code="BRN" population="1234596">
+      <villes>
+         <ville>Al Manāmah Manama</ville>
+      </villes>
+      <aeroports>
+         <name>Bahrain Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Bangladesh" code="BD" population="149772364">
+      <villes/>
+      <aeroports>
+         <name>Zia Intl</name>
+         <name>Shah Amanat Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Myanmar" code="MYA" population="51419420">
+      <villes/>
+      <aeroports>
+         <name>Mandalay Intl</name>
+         <name>Yangon Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="India" code="IND" population="1210854977">
+      <villes/>
+      <aeroports>
+         <name>Srinagar</name>
+         <name>Surat</name>
+         <name>Dehradun</name>
+         <name>Indira Gandhi Intl</name>
+         <name>Lucknow</name>
+         <name>Coimbatore</name>
+         <name>Cochin</name>
+         <name>Bhopal</name>
+         <name>Bangalore</name>
+         <name>Trichy</name>
+         <name>Thiruvananthapuram Intl</name>
+         <name>Aizawl</name>
+         <name>Calicut</name>
+         <name>Netaji Subhash Chandra Bose Intl</name>
+         <name>Bhubaneshwar</name>
+         <name>Vijayawada</name>
+         <name>Varanasi</name>
+         <name>Diu Airport</name>
+         <name>Visakhapatnam</name>
+         <name>Dr Ambedkar Intl</name>
+         <name>Gorakhpur Airport</name>
+         <name>Lokpriya Gopinath Bordoloi International Airport</name>
+         <name>Pune</name>
+         <name>Goa</name>
+         <name>Imphal</name>
+         <name>Devi Ahilyabai Holkar</name>
+         <name>Rajkot</name>
+         <name>Hyderabad</name>
+         <name>Raipur</name>
+         <name>Jabalpur</name>
+         <name>Rajahmundry</name>
+         <name>Jamnagar</name>
+         <name>Jodhpur</name>
+         <name>Jaipur</name>
+         <name>Port Blair</name>
+         <name>Birsa Munda</name>
+         <name>Aurangabad</name>
+         <name>Chandigarh</name>
+         <name>Agartala</name>
+         <name>Madurai</name>
+         <name>Jammu</name>
+         <name>Amritsar</name>
+         <name>Chennai Intl</name>
+         <name>Chhatrapati Shivaji Intl</name>
+         <name>Ahmedabad</name>
+         <name>Allahabad</name>
+      </aeroports>
+   </pays>
+   <pays name="Bhutan" code="BHT" population="733004">
+      <villes>
+         <ville>Thimphu</ville>
+      </villes>
+      <aeroports>
+         <name>Paro</name>
+      </aeroports>
+   </pays>
+   <pays name="Brunei" code="BRU" population="393372">
+      <villes>
+         <ville>Bandar Seri Begawan</ville>
+      </villes>
+      <aeroports>
+         <name>Brunei Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Malaysia" code="MAL" population="27565821">
+      <villes/>
+      <aeroports>
+         <name>Penang Intl</name>
+         <name>Sultan Mahmud</name>
+         <name>Sandakan</name>
+         <name>Kota Kinabalu Intl</name>
+         <name>Sultan Ismail</name>
+         <name>Kuching Intl</name>
+         <name>Sultan Azlan Shah</name>
+         <name>Sultan Ismail Petra</name>
+         <name>Sultan Abdul Aziz Shah Intl</name>
+         <name>Kuantan</name>
+         <name>Kuala Lumpur Intl</name>
+         <name>Labuan</name>
+      </aeroports>
+   </pays>
+   <pays name="Laos" code="LAO" population="6514432">
+      <villes>
+         <ville>Vientiane Viangchan</ville>
+      </villes>
+      <aeroports>
+         <name>Wattay Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Thailand" code="THA" population="65981659">
+      <villes>
+         <ville>Chiang Mai</ville>
+         <ville>Nakhon Ratchasima</ville>
+         <ville>Nakhon Sawan</ville>
+         <ville>Bangkok Khrung Thep</ville>
+         <ville>Nonthaburi</ville>
+         <ville>Khon Kaen</ville>
+         <ville>Nakhon Si Thammarat</ville>
+         <ville>Songkhla</ville>
+         <ville>Samut Prakan</ville>
+         <ville>Chon Buri</ville>
+         <ville>Phuket</ville>
+      </villes>
+      <aeroports>
+         <name>Don Muang Intl</name>
+         <name>Nakhon Si Thammarat</name>
+         <name>Samui</name>
+         <name>Khon Kaen</name>
+         <name>Suvarnabhumi Intl</name>
+         <name>Chiang Mai Intl</name>
+         <name>Hat Yai Intl</name>
+         <name>Phuket Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Cambodia" code="K" population="14364931">
+      <villes>
+         <ville>Phnom Penh</ville>
+      </villes>
+      <aeroports>
+         <name>Phnom Penh Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Vietnam" code="VN" population="88772900">
+      <villes/>
+      <aeroports>
+         <name>Rach Gia</name>
+         <name>Vinh Airport</name>
+         <name>Tansonnhat Intl</name>
+         <name>Noibai Intl</name>
+         <name>Cat Bi International Airport</name>
+         <name>Tra Noc Airport</name>
+         <name>Nha Trang</name>
+      </aeroports>
+   </pays>
+   <pays name="Kazakhstan" code="KAZ" population="17165239">
+      <villes/>
+      <aeroports>
+         <name>Semipalatinsk</name>
+         <name>Uralsk</name>
+         <name>Atyrau</name>
+         <name>Aktau</name>
+         <name>Zhezkazgan Airport</name>
+         <name>Kostanay West Airport</name>
+         <name>Ust Kamenogorsk Airport</name>
+         <name>Shymkent</name>
+         <name>Aktyubinsk</name>
+         <name>Almaty</name>
+         <name>Astana Intl</name>
+         <name>Sary-Arka</name>
+         <name>Pavlodar</name>
+         <name>Kzylorda</name>
+      </aeroports>
+   </pays>
+   <pays name="North Korea" code="NOK" population="24500520">
+      <villes>
+         <ville>Pyongyang</ville>
+         <ville>Hamhung-Hungnam Hamhung</ville>
+         <ville>Chongjin</ville>
+         <ville>Nampho Nampo</ville>
+         <ville>Sunchon</ville>
+         <ville>Sinuiju</ville>
+         <ville>Tanchon</ville>
+         <ville>Wonsan</ville>
+         <ville>Tokchon</ville>
+         <ville>Kanggye</ville>
+         <ville>Haeju</ville>
+         <ville>Anju</ville>
+         <ville>Kim Chaek Songjin Kimchaek</ville>
+         <ville>Kusong</ville>
+         <ville>Huichon</ville>
+         <ville>Sinpho Sinpo</ville>
+         <ville>Kaesong</ville>
+         <ville>Kaechon</ville>
+         <ville>Sariwon</ville>
+      </villes>
+      <aeroports>
+         <name>Pyongyang Sunan Int</name>
+      </aeroports>
+   </pays>
+   <pays name="Kyrgyzstan" code="KGZ" population="6256700">
+      <villes>
+         <ville>Bishkek</ville>
+         <ville>Osh</ville>
+      </villes>
+      <aeroports>
+         <name>Manas</name>
+         <name>Osh</name>
+      </aeroports>
+   </pays>
+   <pays name="Hong Kong" code="HONX" population="7071576">
+      <villes>
+         <ville>Hong Kong</ville>
+      </villes>
+      <aeroports>
+         <name>Hong Kong Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Macao" code="MACX" population="552503">
+      <villes>
+         <ville>Macao</ville>
+      </villes>
+      <aeroports>
+         <name>Macao Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Mongolia" code="MNG" population="2754685">
+      <villes>
+         <ville>Ulaanbaatar Ulan Bator</ville>
+      </villes>
+      <aeroports>
+         <name>Chinggis Khaan Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Nepal" code="NEP" population="26494504">
+      <villes>
+         <ville>Kathmandu</ville>
+         <ville>Pokhara</ville>
+         <ville>Lalitpur Patan</ville>
+         <ville>Biratnagar</ville>
+      </villes>
+      <aeroports>
+         <name>Tribhuvan Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Gaza Strip" code="GAZA" population="1899291">
+      <villes>
+         <ville>Gaza</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Israel" code="IL" population="7420368">
+      <villes/>
+      <aeroports>
+         <name>Ben Gurion</name>
+      </aeroports>
+   </pays>
+   <pays name="Egypt" code="ET" population="94798827">
+      <villes>
+         <ville>Hurghada</ville>
+         <ville>Marsa Matruh Mersa Matruh</ville>
+         <ville>Damanhur</ville>
+         <ville>Kafr ad Dawwar Kafr el-Dawwar</ville>
+         <ville>Al Mansurah Mansoura</ville>
+         <ville>Tanta</ville>
+         <ville>Al Mahallah al Kubra El-Mahalla El-Kubra</ville>
+         <ville>Al Ismailiyah Ismaïlia</ville>
+         <ville>Shibin al Kum Shibin El Kom</ville>
+         <ville>Banha</ville>
+         <ville>Shubra al Khimah Shubra El-Kheima</ville>
+         <ville>Az Zaqaziq Zagazig</ville>
+         <ville>Aswan</ville>
+         <ville>Asyut</ville>
+         <ville>Bani Suwayf Beni Suef</ville>
+         <ville>Al Fayyum Faiyum</ville>
+         <ville>Al Jizah Gizeh Giza</ville>
+         <ville>Al Minya Minya</ville>
+         <ville>Qina Qena</ville>
+         <ville>Al Uqsur Luxor</ville>
+         <ville>Suhaj Sohag</ville>
+         <ville>Bur Said Port Said</ville>
+         <ville>Al Iskandariyah Alexandria</ville>
+         <ville>Al Qahirah Cairo</ville>
+         <ville>As Suways Suez</ville>
+      </villes>
+      <aeroports>
+         <name>Hurghada Intl</name>
+         <name>Aswan Intl</name>
+         <name>Asyut International Airport</name>
+         <name>Borg El Arab Intl</name>
+         <name>Cairo Intl</name>
+         <name>Luxor Intl</name>
+         <name>Alexandria Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Indonesia" code="RI" population="252124458">
+      <villes/>
+      <aeroports>
+         <name>Syamsudin Noor</name>
+         <name>Wolter Monginsidi</name>
+         <name>Radin Inten II (Branti) Airport</name>
+         <name>Hang Nadim</name>
+         <name>El Tari</name>
+         <name>Sultan Babullah</name>
+         <name>Fatmawati Soekarno</name>
+         <name>Pattimura</name>
+         <name>Sepinggan</name>
+         <name>Abdul Rachman Saleh</name>
+         <name>Sam Ratulangi</name>
+         <name>Sentani</name>
+         <name>Lombok International Airport</name>
+         <name>Achmad Yani</name>
+         <name>Sultan Thaha</name>
+         <name>Soekarno Hatta Intl</name>
+         <name>Husein Sastranegara</name>
+         <name>Hasanuddin</name>
+         <name>Bali Ngurah Rai</name>
+         <name>Mutiara</name>
+         <name>Depati Amir</name>
+         <name>Tjilik Riwut</name>
+         <name>Sultan Mahmud Badaruddin Ii</name>
+         <name>Jalaluddin</name>
+         <name>Supadio</name>
+         <name>Sultan Syarif Kasim Ii</name>
+         <name>Tabing</name>
+         <name>Adi Sutjipto</name>
+         <name>Sultan Iskandarmuda</name>
+         <name>Polonia</name>
+         <name>Juanda</name>
+      </aeroports>
+   </pays>
+   <pays name="Timor-Leste" code="TL" population="1066582">
+      <villes>
+         <ville>Dili</ville>
+      </villes>
+      <aeroports>
+         <name>Presidente Nicolau Lobato Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Iraq" code="IRQ" population="33330512">
+      <villes/>
+      <aeroports>
+         <name>Al Najaf International Airport</name>
+         <name>Basrah Intl</name>
+         <name>Erbil Intl</name>
+         <name>Baghdad International Airport</name>
+         <name>Sulaymaniyah International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Jordan" code="JOR" population="6249000">
+      <villes>
+         <ville>Amman</ville>
+         <ville>Zarqa</ville>
+         <ville>Irbid</ville>
+      </villes>
+      <aeroports>
+         <name>Queen Alia Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Kuwait" code="KWT" population="2991580">
+      <villes>
+         <ville>Al Kuwayt Kuwait City Kuwait</ville>
+      </villes>
+      <aeroports>
+         <name>Kuwait Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Saudi Arabia" code="SA" population="27136977">
+      <villes/>
+      <aeroports>
+         <name>Taif</name>
+         <name>King Fahd Intl</name>
+         <name>Hail</name>
+         <name>King Abdulaziz Intl</name>
+         <name>King Khaled Intl</name>
+         <name>Prince Mohammad Bin Abdulaziz</name>
+      </aeroports>
+   </pays>
+   <pays name="Syria" code="SYR" population="20866000">
+      <villes/>
+      <aeroports>
+         <name>Damaskus Intl</name>
+         <name>Aleppo Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Lebanon" code="RL" population="4341092">
+      <villes>
+         <ville>Bayrūt Beirut</ville>
+      </villes>
+      <aeroports>
+         <name>Rafic Hariri Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="West Bank" code="WEST" population="2881687">
+      <villes>
+         <ville>Ramallah</ville>
+         <ville>Nablus</ville>
+         <ville>Al Khalil Hebron</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Japan" code="J" population="127298000">
+      <villes/>
+      <aeroports>
+         <name>Okayama</name>
+         <name>Naha</name>
+         <name>Oita</name>
+         <name>Yamagata</name>
+         <name>Fukuoka</name>
+         <name>Fukushima Airport</name>
+         <name>Hiroshima</name>
+         <name>Tokyo Intl</name>
+         <name>Hakodate</name>
+         <name>Saga Airport</name>
+         <name>Osaka Intl</name>
+         <name>Akita</name>
+         <name>Toyama</name>
+         <name>Aomori</name>
+         <name>New Chitose</name>
+         <name>Takamatsu</name>
+         <name>Sendai</name>
+         <name>Kansai</name>
+         <name>Niigata</name>
+         <name>Kagoshima</name>
+         <name>Tottori</name>
+         <name>Miyazaki</name>
+         <name>Komatsu</name>
+         <name>Kumamoto</name>
+         <name>Tokushima</name>
+         <name>Kochi</name>
+         <name>New Kitakyushu</name>
+         <name>Chubu Centrair Intl</name>
+         <name>Nagasaki</name>
+         <name>Kobe</name>
+         <name>Narita Intl</name>
+         <name>Yamaguchi Ube</name>
+         <name>Matsuyama</name>
+         <name>Mt. Fuji Shizuoka Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="South Korea" code="ROK" population="51269554">
+      <villes>
+         <ville>Seoul</ville>
+         <ville>Busan Pusan</ville>
+         <ville>Daegu Taegu</ville>
+         <ville>Incheon</ville>
+         <ville>Gwangju Kwangju</ville>
+         <ville>Daejeon Taejon</ville>
+         <ville>Ulsan</ville>
+         <ville>Suwon</ville>
+         <ville>Seongnam</ville>
+         <ville>Jeonju</ville>
+         <ville>Changwon</ville>
+         <ville>Cheongju</ville>
+         <ville>Jinju</ville>
+         <ville>Mokpo</ville>
+         <ville>Jeju Cheju</ville>
+         <ville>Gunsan</ville>
+         <ville>Chuncheon</ville>
+         <ville>Yeosu</ville>
+         <ville>Goyang</ville>
+         <ville>Yongin</ville>
+         <ville>Bucheon</ville>
+         <ville>Ansan</ville>
+         <ville>Anyang</ville>
+      </villes>
+      <aeroports>
+         <name>Yeosu</name>
+         <name>Incheon Intl</name>
+         <name>Gimhae Intl</name>
+         <name>Gimpo</name>
+         <name>Ulsan</name>
+         <name>Gwangju</name>
+         <name>Daegu Ab</name>
+         <name>Jeju Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Maldives" code="MV" population="341256">
+      <villes>
+         <ville>Male</ville>
+      </villes>
+      <aeroports>
+         <name>Male Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Oman" code="OM" population="3623001">
+      <villes>
+         <ville>Muscat Maskat</ville>
+         <ville>As Seeb As Sib</ville>
+      </villes>
+      <aeroports>
+         <name>Seeb Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="United Arab Emirates" code="UAE" population="9121167">
+      <villes>
+         <ville>Abu Dhabi</ville>
+         <ville>Al Ain</ville>
+         <ville>Dubai</ville>
+         <ville>Al Sharjah Sharjah</ville>
+      </villes>
+      <aeroports>
+         <name>Abu Dhabi Intl</name>
+         <name>Al Ain International Airport</name>
+         <name>Dubai Intl</name>
+         <name>Sharjah Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Yemen" code="YE" population="24527000">
+      <villes>
+         <ville>Sanaa</ville>
+         <ville>Aden</ville>
+         <ville>Taizz Taiz</ville>
+         <ville>al Hudaydah Al Hudaydah Hodeidah</ville>
+      </villes>
+      <aeroports>
+         <name>Sanaa Intl</name>
+         <name>Hodeidah Intl</name>
+         <name>Taiz Intl</name>
+         <name>Aden Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Philippines" code="RP" population="92337852">
+      <villes/>
+      <aeroports>
+         <name>Mactan Cebu Intl</name>
+         <name>Legazpi</name>
+         <name>Daniel Z Romualdez</name>
+         <name>Ninoy Aquino Intl</name>
+         <name>Butuan</name>
+         <name>Zamboanga Intl</name>
+         <name>Iloilo</name>
+         <name>Puerto Princesa</name>
+         <name>Pagadian</name>
+         <name>General Santos International Airport</name>
+         <name>Francisco Bangoy International</name>
+         <name>Bacolod</name>
+         <name>Cotabato</name>
+      </aeroports>
+   </pays>
+   <pays name="Qatar" code="Q" population="1699435">
+      <villes>
+         <ville>Doha</ville>
+         <ville>Al Rayyan</ville>
+      </villes>
+      <aeroports>
+         <name>Doha Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Singapore" code="SGP" population="5076700">
+      <villes>
+         <ville>Singapore</ville>
+      </villes>
+      <aeroports>
+         <name>Changi Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Sri Lanka" code="CL" population="20263723">
+      <villes>
+         <ville>Sri Jayawardhanapura Sri Jayewardenepura Kotte</ville>
+         <ville>Colombo</ville>
+      </villes>
+      <aeroports>
+         <name>Bandaranaike Intl Colombo</name>
+      </aeroports>
+   </pays>
+   <pays name="Taiwan" code="RC" population="23571227">
+      <villes>
+         <ville>Taipei</ville>
+         <ville>New Taipei</ville>
+         <ville>Changhua</ville>
+         <ville>Hualien</ville>
+         <ville>Pingtung</ville>
+         <ville>Taitung</ville>
+         <ville>Taoyuan</ville>
+         <ville>Jhongli Zhongli</ville>
+         <ville>Chiayi</ville>
+         <ville>Keelung</ville>
+         <ville>Hsinchu</ville>
+         <ville>Kaohsiung</ville>
+         <ville>Taichung</ville>
+         <ville>Tainan</ville>
+      </villes>
+      <aeroports>
+         <name>Kaohsiung Intl</name>
+         <name>Sungshan</name>
+         <name>Taoyuan Intl</name>
+      </aeroports>
+   </pays>
+</asia>
+<australia superficie="1.04344919E7" population="2.89855903E8">
+   <pays name="Christmas Island" code="XMAS" population="2072">
+      <villes>
+         <ville>Flying Fish Cove</ville>
+      </villes>
+      <aeroports>
+         <name>Christmas Island</name>
+      </aeroports>
+   </pays>
+   <pays name="Cocos Islands" code="COCO" population="596">
+      <villes>
+         <ville>West Island</ville>
+      </villes>
+      <aeroports>
+         <name>Cocos Keeling Island Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Indonesia" code="RI" population="252124458">
+      <villes/>
+      <aeroports>
+         <name>Syamsudin Noor</name>
+         <name>Wolter Monginsidi</name>
+         <name>Radin Inten II (Branti) Airport</name>
+         <name>Hang Nadim</name>
+         <name>El Tari</name>
+         <name>Sultan Babullah</name>
+         <name>Fatmawati Soekarno</name>
+         <name>Pattimura</name>
+         <name>Sepinggan</name>
+         <name>Abdul Rachman Saleh</name>
+         <name>Sam Ratulangi</name>
+         <name>Sentani</name>
+         <name>Lombok International Airport</name>
+         <name>Achmad Yani</name>
+         <name>Sultan Thaha</name>
+         <name>Soekarno Hatta Intl</name>
+         <name>Husein Sastranegara</name>
+         <name>Hasanuddin</name>
+         <name>Bali Ngurah Rai</name>
+         <name>Mutiara</name>
+         <name>Depati Amir</name>
+         <name>Tjilik Riwut</name>
+         <name>Sultan Mahmud Badaruddin Ii</name>
+         <name>Jalaluddin</name>
+         <name>Supadio</name>
+         <name>Sultan Syarif Kasim Ii</name>
+         <name>Tabing</name>
+         <name>Adi Sutjipto</name>
+         <name>Sultan Iskandarmuda</name>
+         <name>Polonia</name>
+         <name>Juanda</name>
+      </aeroports>
+   </pays>
+   <pays name="Papua New Guinea" code="PNG" population="7275324">
+      <villes>
+         <ville>Port Moresby</ville>
+      </villes>
+      <aeroports>
+         <name>Port Moresby Jacksons Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="American Samoa" code="AMSA" population="55519">
+      <villes>
+         <ville>Pago Pago</ville>
+      </villes>
+      <aeroports>
+         <name>Pago Pago Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Australia" code="AUS" population="23135281">
+      <villes/>
+      <aeroports>
+         <name>Melbourne Intl</name>
+         <name>Sydney Intl</name>
+         <name>Cairns Intl</name>
+         <name>Townsville</name>
+         <name>Brisbane Intl</name>
+         <name>Canberra</name>
+         <name>Adelaide Intl</name>
+         <name>Newcastle Airport</name>
+         <name>Darwin Intl</name>
+         <name>Perth Intl</name>
+         <name>Hobart</name>
+      </aeroports>
+   </pays>
+   <pays name="Cook Islands" code="COOK" population="17794">
+      <villes>
+         <ville>Avarua</ville>
+      </villes>
+      <aeroports>
+         <name>Rarotonga Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Fiji" code="FJI" population="884887">
+      <villes>
+         <ville>Suva</ville>
+      </villes>
+      <aeroports>
+         <name>Nausori Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="French Polynesia" code="FPOL" population="268270">
+      <villes>
+         <ville>Papeete</ville>
+      </villes>
+      <aeroports>
+         <name>Faa'a International</name>
+      </aeroports>
+   </pays>
+   <pays name="Guam" code="GUAM" population="159358">
+      <villes>
+         <ville>Hagåtña Agana</ville>
+      </villes>
+      <aeroports>
+         <name>Guam Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Kiribati" code="KIR" population="103058">
+      <villes>
+         <ville>Tarawa</ville>
+      </villes>
+      <aeroports>
+         <name>Bonriki Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Marshall Islands" code="MH" population="53158">
+      <villes>
+         <ville>Majuro</ville>
+      </villes>
+      <aeroports>
+         <name>Marshall Islands Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Micronesia" code="FSM" population="102843">
+      <villes>
+         <ville>Kolonia</ville>
+         <ville>Palikir</ville>
+      </villes>
+      <aeroports>
+         <name>Pohnpei Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Nauru" code="NAU" population="10025">
+      <villes>
+         <ville>Yaren</ville>
+      </villes>
+      <aeroports>
+         <name>Nauru Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="New Caledonia" code="NCA" population="268767">
+      <villes>
+         <ville>Noumea</ville>
+      </villes>
+      <aeroports>
+         <name>La Tontouta</name>
+      </aeroports>
+   </pays>
+   <pays name="New Zealand" code="NZ" population="4242048">
+      <villes>
+         <ville>Wellington</ville>
+         <ville>Auckland</ville>
+         <ville>Hamilton</ville>
+         <ville>Christchurch</ville>
+         <ville>Dunedin</ville>
+      </villes>
+      <aeroports>
+         <name>Hamilton</name>
+         <name>Wellington Intl</name>
+         <name>Christchurch Intl</name>
+         <name>Auckland Intl</name>
+         <name>Dunedin</name>
+      </aeroports>
+   </pays>
+   <pays name="Niue" code="NIUE" population="1611">
+      <villes>
+         <ville>Alofi</ville>
+      </villes>
+      <aeroports>
+         <name>Niue Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Norfolk Island" code="NORF" population="2169">
+      <villes>
+         <ville>Kingston</ville>
+      </villes>
+      <aeroports>
+         <name>Norfolk Island Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Northern Mariana Islands" code="NMIS" population="53883">
+      <villes>
+         <ville>Saipan</ville>
+      </villes>
+      <aeroports>
+         <name>Francisco C Ada Saipan Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Palau" code="PAL" population="17501">
+      <villes>
+         <ville>Koror</ville>
+         <ville>Melekeok</ville>
+      </villes>
+      <aeroports>
+         <name>Babelthuap</name>
+      </aeroports>
+   </pays>
+   <pays name="Pitcairn" code="PITC" population="56">
+      <villes>
+         <ville>Adamstown</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Solomon Islands" code="SLB" population="526447">
+      <villes>
+         <ville>Honiara</ville>
+      </villes>
+      <aeroports>
+         <name>Honiara International</name>
+      </aeroports>
+   </pays>
+   <pays name="Tonga" code="TO" population="103252">
+      <villes>
+         <ville>Nukualofa</ville>
+      </villes>
+      <aeroports>
+         <name>Fua Amotu Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Tuvalu" code="TUV" population="9827">
+      <villes>
+         <ville>Funafuti</ville>
+      </villes>
+      <aeroports>
+         <name>Funafuti International</name>
+      </aeroports>
+   </pays>
+   <pays name="Tokelau" code="TOK" population="1383">
+      <villes>
+         <ville>Fakaofo</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Vanuatu" code="VU" population="236299">
+      <villes>
+         <ville>Port Vila</ville>
+      </villes>
+      <aeroports>
+         <name>Port Vila Bauerfield</name>
+      </aeroports>
+   </pays>
+   <pays name="Wallis and Futuna" code="WAFU" population="12197">
+      <villes>
+         <ville>Mata-Utu</ville>
+      </villes>
+      <aeroports>
+         <name>Wallis</name>
+      </aeroports>
+   </pays>
+   <pays name="Samoa" code="WS" population="187820">
+      <villes>
+         <ville>Apia</ville>
+      </villes>
+      <aeroports>
+         <name>Faleolo Intl</name>
+      </aeroports>
+   </pays>
+</australia>
+<africa superficie="3.0337588E7" population="1.122375297E9">
+   <pays name="Ceuta" code="CEU" population="82376">
+      <villes>
+         <ville>Ceuta</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Melilla" code="MEL" population="78476">
+      <villes>
+         <ville>Melilla</ville>
+      </villes>
+      <aeroports>
+         <name>Melilla</name>
+      </aeroports>
+   </pays>
+   <pays name="Egypt" code="ET" population="94798827">
+      <villes>
+         <ville>Hurghada</ville>
+         <ville>Marsa Matruh Mersa Matruh</ville>
+         <ville>Damanhur</ville>
+         <ville>Kafr ad Dawwar Kafr el-Dawwar</ville>
+         <ville>Al Mansurah Mansoura</ville>
+         <ville>Tanta</ville>
+         <ville>Al Mahallah al Kubra El-Mahalla El-Kubra</ville>
+         <ville>Al Ismailiyah Ismaïlia</ville>
+         <ville>Shibin al Kum Shibin El Kom</ville>
+         <ville>Banha</ville>
+         <ville>Shubra al Khimah Shubra El-Kheima</ville>
+         <ville>Az Zaqaziq Zagazig</ville>
+         <ville>Aswan</ville>
+         <ville>Asyut</ville>
+         <ville>Bani Suwayf Beni Suef</ville>
+         <ville>Al Fayyum Faiyum</ville>
+         <ville>Al Jizah Gizeh Giza</ville>
+         <ville>Al Minya Minya</ville>
+         <ville>Qina Qena</ville>
+         <ville>Al Uqsur Luxor</ville>
+         <ville>Suhaj Sohag</ville>
+         <ville>Bur Said Port Said</ville>
+         <ville>Al Iskandariyah Alexandria</ville>
+         <ville>Al Qahirah Cairo</ville>
+         <ville>As Suways Suez</ville>
+      </villes>
+      <aeroports>
+         <name>Hurghada Intl</name>
+         <name>Aswan Intl</name>
+         <name>Asyut International Airport</name>
+         <name>Borg El Arab Intl</name>
+         <name>Cairo Intl</name>
+         <name>Luxor Intl</name>
+         <name>Alexandria Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Algeria" code="DZ" population="37062820">
+      <villes>
+         <ville>Algiers</ville>
+         <ville>Annaba</ville>
+         <ville>Batna</ville>
+         <ville>Béchar</ville>
+         <ville>Sidi Bel Abbës</ville>
+         <ville>Skikda</ville>
+         <ville>Tébessa</ville>
+         <ville>Oran</ville>
+         <ville>Constantine</ville>
+         <ville>Sétif</ville>
+         <ville>Blida</ville>
+         <ville>Bejaïa</ville>
+         <ville>Mostaganem</ville>
+         <ville>Ech Chelif Chlef</ville>
+         <ville>Tlemcen</ville>
+         <ville>Tougourt Touggourt</ville>
+         <ville>Ghardaïa</ville>
+         <ville>El Djelfa Djelfa</ville>
+         <ville>Biskra</ville>
+         <ville>Laghouat</ville>
+         <ville>Tamanrasset</ville>
+      </villes>
+      <aeroports>
+         <name>Cheikh Larbi Tebessi</name>
+         <name>Batna Airport</name>
+         <name>Soummam</name>
+         <name>Tamanrasset</name>
+         <name>Biskra</name>
+         <name>Mohamed Boudiaf Intl</name>
+         <name>Ain Arnat Airport</name>
+         <name>Es Senia</name>
+         <name>Noumerat</name>
+         <name>Annaba</name>
+         <name>Houari Boumediene</name>
+         <name>Zenata</name>
+      </aeroports>
+   </pays>
+   <pays name="Libya" code="LAR" population="6040612">
+      <villes>
+         <ville>Tripoli</ville>
+         <ville>Benghazi</ville>
+         <ville>Misratah Misrata</ville>
+      </villes>
+      <aeroports>
+         <name>Benina</name>
+         <name>Misratah Airport</name>
+         <name>Tripoli Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Mali" code="RMM" population="14528622">
+      <villes/>
+      <aeroports>
+         <name>Senou</name>
+      </aeroports>
+   </pays>
+   <pays name="Mauritania" code="RIM" population="3537368">
+      <villes/>
+      <aeroports>
+         <name>Nouakchott</name>
+         <name>Nouadhibou</name>
+      </aeroports>
+   </pays>
+   <pays name="Morocco" code="MA" population="33337529">
+      <villes/>
+      <aeroports>
+         <name>Angads</name>
+         <name>Inezgane</name>
+         <name>Ibn Batouta</name>
+         <name>Menara</name>
+         <name>Mohammed V Intl</name>
+         <name>Cherif El Idrissi</name>
+         <name>Sale</name>
+         <name>Saiss</name>
+      </aeroports>
+   </pays>
+   <pays name="Niger" code="RN" population="17138707">
+      <villes/>
+      <aeroports>
+         <name>Diori Hamani</name>
+      </aeroports>
+   </pays>
+   <pays name="Tunisia" code="TN" population="10982754">
+      <villes>
+         <ville>Tunis</ville>
+         <ville>Sfax</ville>
+         <ville>Sousse</ville>
+      </villes>
+      <aeroports>
+         <name>Thyna</name>
+         <name>Carthage</name>
+      </aeroports>
+   </pays>
+   <pays name="Western Sahara" code="WSA" population="554795">
+      <villes>
+         <ville>El Aaiun Laâyoune</ville>
+      </villes>
+      <aeroports>
+         <name>Hassan I Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Angola" code="ANG" population="25789024">
+      <villes/>
+      <aeroports>
+         <name>Ondjiva Pereira Airport</name>
+         <name>Lubango</name>
+         <name>Cabinda</name>
+         <name>Menongue</name>
+         <name>Luanda 4 De Fevereiro</name>
+         <name>Huambo</name>
+      </aeroports>
+   </pays>
+   <pays name="Congo" code="RCB" population="4001831">
+      <villes/>
+      <aeroports>
+         <name>Pointe Noire</name>
+         <name>Maya Maya</name>
+      </aeroports>
+   </pays>
+   <pays name="Namibia" code="NAM" population="2113077">
+      <villes>
+         <ville>Windhoek</ville>
+         <ville>Rundu</ville>
+         <ville>Walvis Bay</ville>
+      </villes>
+      <aeroports>
+         <name>Windhoek Hosea Kutako International Airport </name>
+      </aeroports>
+   </pays>
+   <pays name="Zaire" code="ZRE" population="86026000">
+      <villes/>
+      <aeroports>
+         <name>Ndjili Intl</name>
+         <name>Mbuji Mayi</name>
+         <name>Lubumbashi Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Zambia" code="Z" population="13092666">
+      <villes/>
+      <aeroports>
+         <name>Livingstone</name>
+         <name>Ndola</name>
+         <name>Lusaka Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Benin" code="BEN" population="9983884">
+      <villes>
+         <ville>Porto-Novo</ville>
+         <ville>Cotonou</ville>
+         <ville>Abomey-Calavi</ville>
+         <ville>Djougou</ville>
+      </villes>
+      <aeroports>
+         <name>Cadjehoun</name>
+      </aeroports>
+   </pays>
+   <pays name="Burkina Faso" code="BF" population="17322796">
+      <villes>
+         <ville>Ouagadougou</ville>
+         <ville>Bobo Dioulasso</ville>
+      </villes>
+      <aeroports>
+         <name>Bobo Dioulasso</name>
+         <name>Ouagadougou</name>
+      </aeroports>
+   </pays>
+   <pays name="Nigeria" code="WAN" population="193392500">
+      <villes/>
+      <aeroports>
+         <name>Maiduguri</name>
+         <name>Port Harcourt Intl</name>
+         <name>Yakubu Gowon</name>
+         <name>Sadiq Abubakar Iii Intl</name>
+         <name>Murtala Muhammed</name>
+         <name>Benin</name>
+         <name>Kaduna</name>
+         <name>Mallam Aminu Intl</name>
+         <name>Calabar</name>
+         <name>Nnamdi Azikiwe Intl</name>
+         <name>Enugu</name>
+         <name>Yola</name>
+         <name>Ilorin</name>
+      </aeroports>
+   </pays>
+   <pays name="Togo" code="RT" population="6191155">
+      <villes>
+         <ville>Lomé</ville>
+      </villes>
+      <aeroports>
+         <name>Gnassingbe Eyadema Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Botswana" code="RB" population="2038228">
+      <villes>
+         <ville>Gaborone</ville>
+         <ville>Francistown</ville>
+      </villes>
+      <aeroports>
+         <name>Sir Seretse Khama Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="South Africa" code="RSA" population="51770560">
+      <villes/>
+      <aeroports>
+         <name>Lanseria</name>
+         <name>Pietermaritzburg</name>
+         <name>Durban Intl</name>
+         <name>East London</name>
+         <name>Bloemfontein Intl</name>
+         <name>Kimberley</name>
+         <name>Port Elizabeth Intl</name>
+         <name>Pietersburg</name>
+         <name>Cape Town Intl</name>
+         <name>Johannesburg Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Zimbabwe" code="ZW" population="13061239">
+      <villes>
+         <ville>Harare</ville>
+         <ville>Bulawayo</ville>
+         <ville>Chitungwiza</ville>
+      </villes>
+      <aeroports>
+         <name>J M Nkomo Intl</name>
+         <name>Harare Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Cote d'Ivoire" code="CI" population="22671331">
+      <villes/>
+      <aeroports>
+         <name>Abidjan Felix Houphouet Boigny Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Ghana" code="GH" population="24658823">
+      <villes/>
+      <aeroports>
+         <name>Kotoka Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Burundi" code="BI" population="8444784">
+      <villes>
+         <ville>Bujumbura</ville>
+         <ville>Gitega</ville>
+      </villes>
+      <aeroports>
+         <name>Bujumbura Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Rwanda" code="RWA" population="10515973">
+      <villes>
+         <ville>Kigali</ville>
+      </villes>
+      <aeroports>
+         <name>Kigali Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Tanzania" code="EAT" population="44928923">
+      <villes/>
+      <aeroports>
+         <name>Zanzibar</name>
+         <name>Kilimanjaro Intl</name>
+         <name>Mtwara</name>
+         <name>Mwalimu Julius K Nyerere Intl</name>
+         <name>Mwanza</name>
+         <name>Arusha</name>
+      </aeroports>
+   </pays>
+   <pays name="Cameroon" code="CAM" population="19406100">
+      <villes/>
+      <aeroports>
+         <name>Douala</name>
+         <name>Yaounde Nsimalen</name>
+      </aeroports>
+   </pays>
+   <pays name="Central African Republic" code="RCA" population="4349921">
+      <villes>
+         <ville>Bangui</ville>
+         <ville>Bimbo</ville>
+      </villes>
+      <aeroports>
+         <name>Bangui M Poko</name>
+      </aeroports>
+   </pays>
+   <pays name="Chad" code="TCH" population="11720781">
+      <villes>
+         <ville>N'Djamena</ville>
+      </villes>
+      <aeroports>
+         <name>Ndjamena Hassan Djamous</name>
+      </aeroports>
+   </pays>
+   <pays name="Equatorial Guinea" code="GQ" population="1222442">
+      <villes/>
+      <aeroports>
+         <name>Malabo</name>
+         <name>Bata</name>
+      </aeroports>
+   </pays>
+   <pays name="Gabon" code="G" population="1556222">
+      <villes>
+         <ville>Libreville</ville>
+         <ville>Port-Gentil</ville>
+         <ville>Franceville</ville>
+      </villes>
+      <aeroports>
+         <name>Leon M Ba</name>
+      </aeroports>
+   </pays>
+   <pays name="Cape Verde" code="CV" population="491875">
+      <villes>
+         <ville>Praia</ville>
+      </villes>
+      <aeroports>
+         <name>Praia International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Sudan" code="SUD" population="40782700">
+      <villes/>
+      <aeroports>
+         <name>Khartoum</name>
+      </aeroports>
+   </pays>
+   <pays name="South Sudan" code="SSD" population="8260490">
+      <villes>
+         <ville>Juba</ville>
+      </villes>
+      <aeroports>
+         <name>Juba</name>
+      </aeroports>
+   </pays>
+   <pays name="Comoros" code="COM" population="683081">
+      <villes>
+         <ville>Moroni</ville>
+      </villes>
+      <aeroports>
+         <name>Prince Said Ibrahim</name>
+      </aeroports>
+   </pays>
+   <pays name="Guinea" code="RG" population="10628972">
+      <villes>
+         <ville>Conakry</ville>
+         <ville>N'Zérékoré Nzérékoré</ville>
+      </villes>
+      <aeroports>
+         <name>Conakry</name>
+      </aeroports>
+   </pays>
+   <pays name="Liberia" code="LB" population="3957990">
+      <villes>
+         <ville>Monrovia</ville>
+      </villes>
+      <aeroports>
+         <name>Monrovia Roberts Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Djibouti" code="DJI" population="834036">
+      <villes>
+         <ville>Djibouti</ville>
+      </villes>
+      <aeroports>
+         <name>Ambouli International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Eritrea" code="ER" population="5741159">
+      <villes>
+         <ville>Asmara</ville>
+         <ville>Massaua Mitsiwa</ville>
+      </villes>
+      <aeroports>
+         <name>Asmara Intl</name>
+         <name>Massaua</name>
+      </aeroports>
+   </pays>
+   <pays name="Ethiopia" code="ETH" population="84320987">
+      <villes/>
+      <aeroports>
+         <name>Gondar</name>
+         <name>Dire Dawa Intl</name>
+         <name>Bole Intl</name>
+         <name>Gambella</name>
+      </aeroports>
+   </pays>
+   <pays name="Somalia" code="SP" population="9636173">
+      <villes>
+         <ville>Mogadishu</ville>
+      </villes>
+      <aeroports>
+         <name>Aden Adde International Airport</name>
+      </aeroports>
+   </pays>
+   <pays name="Kenya" code="EAK" population="40909194">
+      <villes>
+         <ville>Mombasa</ville>
+         <ville>Malindi</ville>
+         <ville>Machakos</ville>
+         <ville>Nairobi</ville>
+         <ville>Kisumu</ville>
+         <ville>Nakuru</ville>
+         <ville>Eldoret</ville>
+      </villes>
+      <aeroports>
+         <name>Malindi Airport</name>
+         <name>Mombasa Moi Intl</name>
+         <name>Jomo Kenyatta International</name>
+         <name>Nairobi Wilson</name>
+         <name>Kisumu</name>
+         <name>Eldoret Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Gambia" code="WAG" population="1882450">
+      <villes>
+         <ville>Banjul</ville>
+      </villes>
+      <aeroports>
+         <name>Banjul Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Senegal" code="SN" population="13508715">
+      <villes/>
+      <aeroports>
+         <name>Ziguinchor</name>
+         <name>Leopold Sedar Senghor Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Guinea-Bissau" code="GNB" population="1586624">
+      <villes>
+         <ville>Bissau</ville>
+      </villes>
+      <aeroports>
+         <name>Osvaldo Vieira Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Sierra Leone" code="WAL" population="5751976">
+      <villes>
+         <ville>Freetown</ville>
+         <ville>Bo</ville>
+      </villes>
+      <aeroports>
+         <name>Freetown Lungi</name>
+      </aeroports>
+   </pays>
+   <pays name="Uganda" code="EAU" population="34634650">
+      <villes/>
+      <aeroports>
+         <name>Entebbe Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Lesotho" code="LS" population="2007201">
+      <villes>
+         <ville>Maseru</ville>
+      </villes>
+      <aeroports>
+         <name>Moshoeshoe I Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Madagascar" code="RM" population="21842167">
+      <villes>
+         <ville>Antsiranana</ville>
+         <ville>Antananarivo</ville>
+         <ville>Antsirabe</ville>
+         <ville>Fianarantsoa</ville>
+         <ville>Majunga Mahajanga</ville>
+         <ville>Tamatave Toamasina</ville>
+         <ville>Toliara</ville>
+      </villes>
+      <aeroports>
+         <name>Arrachart</name>
+         <name>Toliara</name>
+         <name>Ivato</name>
+         <name>Toamasina</name>
+      </aeroports>
+   </pays>
+   <pays name="Malawi" code="MW" population="15013694">
+      <villes>
+         <ville>Lilongwe</ville>
+         <ville>Blantyre</ville>
+      </villes>
+      <aeroports>
+         <name>Chileka Intl</name>
+         <name>Kamuzu Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Mozambique" code="MOC" population="23700715">
+      <villes/>
+      <aeroports>
+         <name>Chimoio Airport</name>
+         <name>Nampula</name>
+         <name>Tete Chingodzi</name>
+         <name>Beira</name>
+         <name>Quelimane</name>
+         <name>Inhambane</name>
+         <name>Pemba</name>
+         <name>Maputo</name>
+         <name>Lichinga</name>
+      </aeroports>
+   </pays>
+   <pays name="Mauritius" code="MS" population="1237091">
+      <villes>
+         <ville>Port Louis</ville>
+      </villes>
+      <aeroports>
+         <name>Sir Seewoosagur Ramgoolam Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Mayotte" code="MAYO" population="256518">
+      <villes>
+         <ville>Mamoutzou Mamoudzou</ville>
+      </villes>
+      <aeroports>
+         <name>Dzaoudzi Pamandzi</name>
+      </aeroports>
+   </pays>
+   <pays name="Swaziland" code="SD" population="1193148">
+      <villes>
+         <ville>Mbabane</ville>
+      </villes>
+      <aeroports>
+         <name>Matsapha</name>
+      </aeroports>
+   </pays>
+   <pays name="Reunion" code="REUN" population="828581">
+      <villes>
+         <ville>Saint-Denis</ville>
+         <ville>Saint-Paul</ville>
+      </villes>
+      <aeroports>
+         <name>St Denis Gillot</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Helena" code="HELX" population="5663">
+      <villes>
+         <ville>Jamestown</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Sao Tome and Principe" code="STP" population="187356">
+      <villes>
+         <ville>São Tomé</ville>
+      </villes>
+      <aeroports>
+         <name>Sao Tome Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Seychelles" code="SY" population="90945">
+      <villes>
+         <ville>Victoria</ville>
+      </villes>
+      <aeroports>
+         <name>Seychelles Intl</name>
+      </aeroports>
+   </pays>
+</africa>
+<america superficie="4.20664253E7" population="9.5607446E8">
+   <pays name="Anguilla" code="AXA" population="13037">
+      <villes>
+         <ville>The Valley</ville>
+      </villes>
+      <aeroports>
+         <name>Wallblake</name>
+      </aeroports>
+   </pays>
+   <pays name="Antigua and Barbuda" code="AG" population="81799">
+      <villes>
+         <ville>St. John's</ville>
+      </villes>
+      <aeroports>
+         <name>V C Bird Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Aruba" code="ARU" population="101484">
+      <villes>
+         <ville>Oranjestad</ville>
+      </villes>
+      <aeroports>
+         <name>Reina Beatrix Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Bahamas" code="BS" population="353658">
+      <villes>
+         <ville>Nassau</ville>
+      </villes>
+      <aeroports>
+         <name>Lynden Pindling Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Barbados" code="BDS" population="277821">
+      <villes>
+         <ville>Bridgetown</ville>
+      </villes>
+      <aeroports>
+         <name>Grantley Adams Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Belize" code="BZ" population="312971">
+      <villes>
+         <ville>Belmopan</ville>
+         <ville>Belize City</ville>
+      </villes>
+      <aeroports>
+         <name>Philip S W Goldson Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Guatemala" code="GCA" population="15073375">
+      <villes>
+         <ville>Ciudad de Guatemala Guatemala City</ville>
+         <ville>Mixco</ville>
+         <ville>Villa Nueva</ville>
+         <ville>Cobán</ville>
+         <ville>Chichicastenango</ville>
+      </villes>
+      <aeroports>
+         <name>La Aurora</name>
+      </aeroports>
+   </pays>
+   <pays name="Mexico" code="MEX" population="112336538">
+      <villes/>
+      <aeroports>
+         <name>General Servando Canales Intl</name>
+         <name>Ingeniero Alberto Acuna Ongay Intl</name>
+         <name>Colima</name>
+         <name>Licenciado Y Gen Ignacio Lopez Rayon</name>
+         <name>Angel Albino Corzo</name>
+         <name>General Abelardo L Rodriguez Intl</name>
+         <name>General Heriberto Jara Intl</name>
+         <name>Quetzalcoatl Intl</name>
+         <name>Licenciado Manuel Crescencio Rejon Int</name>
+         <name>General Mariano Escobedo Intl</name>
+         <name>Minatitlan</name>
+         <name>C P A Carlos Rovirosa Intl</name>
+         <name>General Rodolfo Sanchez Taboada Intl</name>
+         <name>Hermanos Serdan Intl</name>
+         <name>General Leobardo C Ruiz Intl</name>
+         <name>Lencero Airport</name>
+         <name>Queretaro Intercontinental</name>
+         <name>Licenciado Adolfo Lopez Mateos Intl</name>
+         <name>Tepic</name>
+         <name>General Pedro Jose Mendez Intl</name>
+         <name>Ponciano Arriaga Intl</name>
+         <name>General Francisco J Mujica Intl</name>
+         <name>Durango Intl</name>
+         <name>Don Miguel Hidalgo Y Costilla Intl</name>
+         <name>Xoxocotlan Intl</name>
+         <name>General Ignacio P Garcia Intl</name>
+         <name>General Lucio Blanco Intl</name>
+         <name>Licenciado Benito Juarez Intl</name>
+         <name>General Rafael Buelna Intl</name>
+         <name>General R Fierro Villalobos Intl</name>
+         <name>Cancun Intl</name>
+         <name>Chetumal Intl</name>
+         <name>Culiacan Intl</name>
+         <name>Tapachula Intl</name>
+         <name>General Francisco Javier Mina Intl</name>
+         <name>General Manuel Marquez De Leon Intl</name>
+         <name>Ciudad Obregon Intl</name>
+         <name>Valle Del Fuerte Intl</name>
+         <name>Plan De Guadalupe Intl</name>
+         <name>Jesus Teran Intl</name>
+         <name>Torreon Intl</name>
+         <name>General Juan N Alvarez Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Bermuda" code="BERM" population="64628">
+      <villes>
+         <ville>Hamilton</ville>
+      </villes>
+      <aeroports>
+         <name>Bermuda Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="British Virgin Islands" code="BVIR" population="28054">
+      <villes>
+         <ville>Road Town</ville>
+      </villes>
+      <aeroports>
+         <name>Terrance B Lettsome Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Canada" code="CDN" population="35151728">
+      <villes/>
+      <aeroports>
+         <name>Gander Intl</name>
+         <name>Whitehorse Intl</name>
+         <name>Iqaluit</name>
+         <name>St Johns Intl</name>
+         <name>Lester B Pearson Intl</name>
+         <name>Calgary Intl</name>
+         <name>Victoria Intl</name>
+         <name>London</name>
+         <name>Saskatoon J G Diefenbaker Intl</name>
+         <name>Yellowknife</name>
+         <name>Quebec Jean Lesage Intl</name>
+         <name>Thunder Bay</name>
+         <name>Regina Intl</name>
+         <name>Ottawa Macdonald Cartier Intl</name>
+         <name>Pierre Elliott Trudeau Intl</name>
+         <name>City Centre</name>
+         <name>Winnipeg Intl</name>
+         <name>Vancouver Intl</name>
+         <name>Hamilton</name>
+         <name>Halifax Intl</name>
+         <name>Edmonton Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="United States" code="USA" population="318857056">
+      <villes/>
+      <aeroports>
+         <name>Laredo Intl</name>
+         <name>Port Columbus Intl</name>
+         <name>Des Moines Intl</name>
+         <name>Detroit Metro Wayne Co</name>
+         <name>Louis Armstrong New Orleans Intl</name>
+         <name>Minneapolis St Paul Intl</name>
+         <name>Dane Co Rgnl Truax Fld</name>
+         <name>Hector International Airport</name>
+         <name>Fresno Yosemite Intl</name>
+         <name>El Paso Intl</name>
+         <name>Evansville Regional</name>
+         <name>Newark Liberty Intl</name>
+         <name>Mahlon Sweet Fld</name>
+         <name>Erie Intl Tom Ridge Fld</name>
+         <name>General Mitchell Intl</name>
+         <name>Mc Kellar Sipes Rgnl</name>
+         <name>Dallas Fort Worth Intl</name>
+         <name>Miami Intl</name>
+         <name>Harrisburg Intl</name>
+         <name>Memphis Intl</name>
+         <name>Chicago Midway Intl</name>
+         <name>Kansas City Intl</name>
+         <name>Orlando Intl</name>
+         <name>Mobile Rgnl</name>
+         <name>Modesto City Co Harry Sham</name>
+         <name>Louisville International Airport</name>
+         <name>Cleveland Hopkins Intl</name>
+         <name>Seattle Tacoma Intl</name>
+         <name>San Francisco Intl</name>
+         <name>Charleston Afb Intl</name>
+         <name>Springfield Branson Natl</name>
+         <name>Sheppard Afb Wichita Falls Muni</name>
+         <name>Lincoln</name>
+         <name>City Of Colorado Springs Muni</name>
+         <name>Charlotte Douglas Intl</name>
+         <name>Albany Intl</name>
+         <name>Nashville Intl</name>
+         <name>Tampa Intl</name>
+         <name>Boise Air Terminal</name>
+         <name>General Edward Lawrence Logan Intl</name>
+         <name>Martha's Vineyard</name>
+         <name>Nantucket Mem</name>
+         <name>Rick Husband Amarillo Intl</name>
+         <name>Toledo</name>
+         <name>Syracuse Hancock Intl</name>
+         <name>Cincinnati Northern Kentucky Intl</name>
+         <name>Lambert St Louis Intl</name>
+         <name>Cheyenne Rgnl Jerry Olson Fld</name>
+         <name>Dallas Love Fld</name>
+         <name>James M Cox Dayton Intl</name>
+         <name>Mc Carran Intl</name>
+         <name>Capital City</name>
+         <name>Corpus Christi Intl</name>
+         <name>Salt Lake City Intl</name>
+         <name>Yeager</name>
+         <name>Columbus Metropolitan Airport</name>
+         <name>Sacramento Intl</name>
+         <name>Cincinnati Muni Lunken Fld</name>
+         <name>John Wayne Arpt Orange Co</name>
+         <name>Los Angeles Intl</name>
+         <name>Lubbock Preston Smith Intl</name>
+         <name>Denver Intl</name>
+         <name>Ronald Reagan Washington Natl</name>
+         <name>Long Beach</name>
+         <name>La Guardia</name>
+         <name>Lovell Fld</name>
+         <name>Shreveport Rgnl</name>
+         <name>Adams Fld</name>
+         <name>Norman Y Mineta San Jose Intl</name>
+         <name>Birmingham Intl</name>
+         <name>Bismarck Municipal Airport</name>
+         <name>Billings Logan International Airport</name>
+         <name>Tulsa Intl</name>
+         <name>Tucson Intl</name>
+         <name>Reno Tahoe Intl</name>
+         <name>Buffalo Niagara Intl</name>
+         <name>Hartsfield Jackson Atlanta Intl</name>
+         <name>Baton Rouge Metro Ryan Fld</name>
+         <name>Austin Bergstrom Intl</name>
+         <name>Mc Ghee Tyson</name>
+         <name>Baltimore Washington Intl</name>
+         <name>Akron Canton Regional Airport</name>
+         <name>Lehigh Valley Intl</name>
+         <name>Abilene Rgnl</name>
+         <name>Tallahassee Rgnl</name>
+         <name>Waco Rgnl</name>
+         <name>Albuquerque International Sunport</name>
+         <name>San Diego Intl</name>
+         <name>San Antonio Intl</name>
+         <name>Savannah Hilton Head Intl</name>
+         <name>Portland Intl Jetport</name>
+         <name>Theodore Francis Green State</name>
+         <name>Indianapolis Intl</name>
+         <name>Washington Dulles Intl</name>
+         <name>George Bush Intcntl Houston</name>
+         <name>Wichita Mid Continent</name>
+         <name>William P Hobby</name>
+         <name>Greater Rochester Intl</name>
+         <name>Fort Lauderdale Hollywood Intl</name>
+         <name>Eppley Afld</name>
+         <name>Portland Intl</name>
+         <name>Norfolk Intl</name>
+         <name>Chicago Ohare Intl</name>
+         <name>Bishop International</name>
+         <name>Phoenix Sky Harbor Intl</name>
+         <name>Pittsburgh Intl</name>
+         <name>Pierre Regional Airport</name>
+         <name>Philadelphia Intl</name>
+         <name>Helena Rgnl</name>
+         <name>Spokane Intl</name>
+         <name>Will Rogers World</name>
+         <name>Richmond Intl</name>
+         <name>John F Kennedy Intl</name>
+         <name>Jacksonville Intl</name>
+         <name>Jackson Evers Intl</name>
+         <name>Santa Fe Muni</name>
+         <name>Albert J Ellis</name>
+         <name>Metropolitan Oakland Intl</name>
+         <name>Juneau Intl</name>
+         <name>Ted Stevens Anchorage Intl</name>
+         <name>Honolulu Intl</name>
+         <name>Hilo Intl</name>
+         <name>Lanai</name>
+         <name>Molokai</name>
+         <name>Kahului</name>
+      </aeroports>
+   </pays>
+   <pays name="Cayman Islands" code="CAYM" population="55691">
+      <villes>
+         <ville>George Town</ville>
+      </villes>
+      <aeroports>
+         <name>Edward Bodden Airfield</name>
+         <name>Owen Roberts Intl</name>
+         <name>Gerrard Smith Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Costa Rica" code="CR" population="4773119">
+      <villes/>
+      <aeroports>
+         <name>Tobias Bolanos International Airport</name>
+         <name>Daniel Oduber Quiros Intl</name>
+         <name>Juan Santamaria Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Nicaragua" code="NIC" population="6327927">
+      <villes>
+         <ville>Managua</ville>
+         <ville>León</ville>
+         <ville>Chinandega</ville>
+         <ville>Masaya</ville>
+         <ville>Granada</ville>
+         <ville>Matagalpa</ville>
+         <ville>Tipitapa</ville>
+         <ville>Jinotega</ville>
+         <ville>Estelí</ville>
+      </villes>
+      <aeroports>
+         <name>Managua Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Panama" code="PA" population="3405813">
+      <villes/>
+      <aeroports>
+         <name>Bocas del Toro Intl</name>
+         <name>Tocumen Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Cuba" code="C" population="11167325">
+      <villes/>
+      <aeroports>
+         <name>Antonio Maceo Intl</name>
+         <name>Ignacio Agramonte Intl</name>
+         <name>Frank Pais Intl</name>
+         <name>Rafael Cabrera</name>
+         <name>Jose Marti Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Dominica" code="WD" population="70739">
+      <villes>
+         <ville>Roseau</ville>
+      </villes>
+      <aeroports>
+         <name>Melville Hall</name>
+      </aeroports>
+   </pays>
+   <pays name="Dominican Republic" code="DOM" population="9445281">
+      <villes>
+         <ville>Santo Domingo</ville>
+         <ville>Santiago Santiago de los Caballeros</ville>
+         <ville>Puerto Plata</ville>
+      </villes>
+      <aeroports>
+         <name>Las Americas Intl</name>
+         <name>Cibao Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Haiti" code="RH" population="9896400">
+      <villes>
+         <ville>Port-au-Prince</ville>
+         <ville>Carrefour</ville>
+         <ville>Delmas</ville>
+         <ville>Pétion-Ville Pétionville</ville>
+         <ville>Cité Soleil</ville>
+         <ville>Gonaïves</ville>
+         <ville>Cap-Haïtien</ville>
+      </villes>
+      <aeroports>
+         <name>Toussaint Louverture Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="El Salvador" code="ES" population="6290420">
+      <villes>
+         <ville>San Salvador</ville>
+         <ville>Soyapango</ville>
+         <ville>Mejicanos</ville>
+         <ville>Ciudad Delgado</ville>
+         <ville>Apopa</ville>
+         <ville>Santa Ana</ville>
+         <ville>Santa Tecla</ville>
+         <ville>San Miguel</ville>
+      </villes>
+      <aeroports>
+         <name>El Salvador Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Honduras" code="HCA" population="8045990">
+      <villes/>
+      <aeroports>
+         <name>Toncontin Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Greenland" code="GROX" population="56370">
+      <villes>
+         <ville>Nuuk</ville>
+      </villes>
+      <aeroports>
+         <name>Nuuk</name>
+      </aeroports>
+   </pays>
+   <pays name="Grenada" code="WG" population="103328">
+      <villes>
+         <ville>Saint George's St. George's</ville>
+      </villes>
+      <aeroports>
+         <name>Point Salines Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Guadeloupe" code="GUAD" population="404635">
+      <villes>
+         <ville>Basse-Terre</ville>
+      </villes>
+      <aeroports>
+         <name>Le Raizet</name>
+      </aeroports>
+   </pays>
+   <pays name="Jamaica" code="JA" population="2697983">
+      <villes>
+         <ville>Kingston</ville>
+      </villes>
+      <aeroports>
+         <name>Norman Manley Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Martinique" code="MART" population="392291">
+      <villes>
+         <ville>Fort-de-France</ville>
+      </villes>
+      <aeroports>
+         <name>Le Lamentin</name>
+      </aeroports>
+   </pays>
+   <pays name="Montserrat" code="MNTS" population="4922">
+      <villes>
+         <ville>Plymouth</ville>
+         <ville>Brades</ville>
+      </villes>
+      <aeroports>
+         <name>John A. Osborne</name>
+      </aeroports>
+   </pays>
+   <pays name="Curacao" code="CUR" population="150563">
+      <villes>
+         <ville>Willemstad</ville>
+      </villes>
+      <aeroports>
+         <name>Hato</name>
+      </aeroports>
+   </pays>
+   <pays name="Sint Maarten" code="NLSM" population="37429">
+      <villes>
+         <ville>Philipsburg</ville>
+      </villes>
+      <aeroports>
+         <name>Princess Juliana Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Martin" code="SMAR" population="37630">
+      <villes>
+         <ville>Marigot</ville>
+      </villes>
+      <aeroports/>
+   </pays>
+   <pays name="Saint Barthelemy" code="SBAR" population="9072">
+      <villes>
+         <ville>Gustavia</ville>
+      </villes>
+      <aeroports>
+         <name>Saint Barthelemy</name>
+      </aeroports>
+   </pays>
+   <pays name="Colombia" code="CO" population="47661787">
+      <villes/>
+      <aeroports>
+         <name>Eldorado Intl</name>
+         <name>Perales</name>
+         <name>Gustavo Artunduaga Paredes</name>
+         <name>El Eden</name>
+         <name>La Nubia</name>
+         <name>Yariguies</name>
+         <name>La Florida</name>
+         <name>Alfonso Bonilla Aragon Intl</name>
+         <name>Rafael Nunez</name>
+         <name>Simon Bolivar</name>
+         <name>Ernesto Cortissoz</name>
+         <name>Matecana</name>
+         <name>Camilo Daza</name>
+         <name>Palonegro</name>
+         <name>Gustavo Rojas Pinilla</name>
+         <name>Olaya Herrera</name>
+      </aeroports>
+   </pays>
+   <pays name="Puerto Rico" code="PR" population="3725789">
+      <villes>
+         <ville>San Juan</ville>
+         <ville>Ponce</ville>
+         <ville>Bayamón</ville>
+         <ville>Carolina</ville>
+      </villes>
+      <aeroports>
+         <name>Luis Munoz Marin Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Kitts and Nevis" code="KN" population="52352">
+      <villes>
+         <ville>Basseterre Basse Terre</ville>
+      </villes>
+      <aeroports>
+         <name>Robert L Bradshaw</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Lucia" code="WL" population="165595">
+      <villes>
+         <ville>Castries</ville>
+      </villes>
+      <aeroports>
+         <name>Hewanorra Intl</name>
+         <name>George F L Charles</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Pierre and Miquelon" code="SPMI" population="6312">
+      <villes>
+         <ville>Saint-Pierre</ville>
+      </villes>
+      <aeroports>
+         <name>Saint-Pierre</name>
+      </aeroports>
+   </pays>
+   <pays name="Saint Vincent and the Grenadines"
+         code="WV"
+         population="109991">
+      <villes>
+         <ville>Kingstown</ville>
+      </villes>
+      <aeroports>
+         <name>E T Joshua</name>
+      </aeroports>
+   </pays>
+   <pays name="Trinidad and Tobago" code="TT" population="1328019">
+      <villes>
+         <ville>Port-of-Spain</ville>
+      </villes>
+      <aeroports>
+         <name>Piarco</name>
+      </aeroports>
+   </pays>
+   <pays name="Turks and Caicos Islands" code="TUCA" population="31458">
+      <villes>
+         <ville>Grand Turk</ville>
+      </villes>
+      <aeroports>
+         <name>Providenciales</name>
+      </aeroports>
+   </pays>
+   <pays name="Virgin Islands" code="VIRG" population="106405">
+      <villes>
+         <ville>Charlotte Amalie</ville>
+      </villes>
+      <aeroports>
+         <name>Cyril E King</name>
+      </aeroports>
+   </pays>
+   <pays name="Argentina" code="RA" population="42669500">
+      <villes/>
+      <aeroports>
+         <name>La Rioja</name>
+         <name>Jujuy</name>
+         <name>Comandante Espora</name>
+         <name>Teniente Benjamin Matienzo</name>
+         <name>San Luis</name>
+         <name>Santiago del Estero</name>
+         <name>Sauce Viejo</name>
+         <name>Corrientes</name>
+         <name>Presidente Peron</name>
+         <name>Salta</name>
+         <name>Aeroparque Jorge Newbery</name>
+         <name>Ministro Pistarini</name>
+         <name>Ushuaia Malvinas Argentinas</name>
+         <name>Formosa</name>
+         <name>Posadas</name>
+         <name>Rosario</name>
+         <name>Resistencia</name>
+         <name>Rio Gallegos</name>
+         <name>Comodoro Rivadavia</name>
+         <name>Mar Del Plata</name>
+         <name>El Plumerillo</name>
+         <name>Ambrosio L V Taravella</name>
+      </aeroports>
+   </pays>
+   <pays name="Bolivia" code="BOL" population="10027262">
+      <villes/>
+      <aeroports>
+         <name>Heroes Del Acre</name>
+         <name>El Alto Intl</name>
+         <name>Viru Viru Intl</name>
+         <name>Juana Azurduy De Padilla</name>
+         <name>Tte Av Jorge Henrich Arauz</name>
+         <name>Capitan Oriel Lea Plaza</name>
+         <name>Jorge Wilsterman</name>
+      </aeroports>
+   </pays>
+   <pays name="Brazil" code="BR" population="202768562">
+      <villes/>
+      <aeroports>
+         <name>Guararapes Gilberto Freyre Intl</name>
+         <name>Presidente Juscelino Kubitschek</name>
+         <name>Boa Vista</name>
+         <name>Rio Branco</name>
+         <name>Ten Cel Av Cesar Bombonato</name>
+         <name>Zumbi Dos Palmares</name>
+         <name>Macapa</name>
+         <name>Eduardo Gomes Intl</name>
+         <name>Goiabeiras</name>
+         <name>Afonso Pena</name>
+         <name>Santarem</name>
+         <name>Londrina</name>
+         <name>Marechal Rondon</name>
+         <name>Campo Grande</name>
+         <name>Congonhas</name>
+         <name>Santos Dumont</name>
+         <name>Deputado Luis Eduardo Magalhaes</name>
+         <name>Tancredo Neves Intl</name>
+         <name>Marechal Cunha Machado Intl</name>
+         <name>Amarais Airport</name>
+         <name>Viracopos</name>
+         <name>Santa Maria</name>
+         <name>Uberaba</name>
+         <name>Val De Cans Intl</name>
+         <name>Senador Petronio Portella</name>
+         <name>Augusto Severo</name>
+         <name>Pelotas</name>
+         <name>Leite Lopes</name>
+         <name>General Leite de Castro Airport</name>
+         <name>Governador Valadares Airport</name>
+         <name>Usiminas</name>
+         <name>Campo Dos Bugres</name>
+         <name>Galeao Antonio Carlos Jobim</name>
+         <name>Pinto Martins Intl</name>
+         <name>Pampulha Carlos Drummond De Andrade</name>
+         <name>Governador Jorge Teixeira De Oliveira</name>
+         <name>Santa Genoveva</name>
+         <name>Salgado Filho</name>
+         <name>Guarulhos Gov Andre Franco Montouro</name>
+         <name>Prefeito Renato Moreira</name>
+         <name>Ilheus</name>
+      </aeroports>
+   </pays>
+   <pays name="Chile" code="RCH" population="16341929">
+      <villes/>
+      <aeroports>
+         <name>Cerro Moreno Intl</name>
+         <name>Pichoy</name>
+         <name>La Florida</name>
+         <name>Copiapo</name>
+         <name>Carriel Sur Intl</name>
+         <name>Maquehue</name>
+         <name>Arturo Merino Benitez Intl</name>
+         <name>Diego Aracena Intl</name>
+         <name>Chacalluta</name>
+         <name>El Tepual Intl</name>
+         <name>Carlos Ibanez Del Campo Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Paraguay" code="PY" population="6672631">
+      <villes>
+         <ville>Asunción</ville>
+         <ville>Ciudad del Este</ville>
+      </villes>
+      <aeroports>
+         <name>Ciudad del Este</name>
+         <name>Silvio Pettirossi Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Uruguay" code="ROU" population="3286314">
+      <villes>
+         <ville>Montevideo</ville>
+         <ville>Salto</ville>
+      </villes>
+      <aeroports>
+         <name>Carrasco Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Peru" code="PE" population="30135875">
+      <villes/>
+      <aeroports>
+         <name>Capt Jose A Quinones Gonzales Intl</name>
+         <name>Capitan Carlos Martinez De Pinillos</name>
+         <name>Alferez Fap David Figueroa Fernandini Airport</name>
+         <name>Coronel Fap Alfredo Mendivil Duarte</name>
+         <name>Pedro Canga</name>
+         <name>Mayor General FAP Armando Revoredo Iglesias Airport</name>
+         <name>Capitan Fap Guillermo Concha Iberico</name>
+         <name>Cap Fap David Abenzur Rengifo Intl</name>
+         <name>Padre Aldamiz</name>
+         <name>Coronel Francisco Secada Vignetta Intl</name>
+         <name>Rodriguez Ballon</name>
+         <name>Juliaca</name>
+         <name>Cadete Guillermo Del Castillo Paredes</name>
+         <name>Teniente Alejandro Velasco Astete Intl</name>
+         <name>Coronel Carlos Ciriani Santa Rosa Intl</name>
+         <name>Jorge Chavez Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="French Guiana" code="FGU" population="237549">
+      <villes>
+         <ville>Cayenne</ville>
+      </villes>
+      <aeroports>
+         <name>Rochambeau</name>
+      </aeroports>
+   </pays>
+   <pays name="Guyana" code="GUY" population="747884">
+      <villes>
+         <ville>Georgetown</ville>
+      </villes>
+      <aeroports>
+         <name>Cheddi Jagan Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Suriname" code="SME" population="541638">
+      <villes>
+         <ville>Paramaribo</ville>
+      </villes>
+      <aeroports>
+         <name>Johan A Pengel Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Venezuela" code="YV" population="28946101">
+      <villes/>
+      <aeroports>
+         <name>General Manuel Carlos Piar</name>
+         <name>General Jose Antonio Anzoategui Intl</name>
+         <name>Casique Aramare</name>
+         <name>Barinas</name>
+         <name>Barquisimeto Intl</name>
+         <name>La Chinita Intl</name>
+         <name>Arturo Michelena Intl</name>
+         <name>Maturin</name>
+         <name>Simon Bolivar Intl</name>
+      </aeroports>
+   </pays>
+   <pays name="Ecuador" code="EC" population="14483499">
+      <villes>
+         <ville>Quito</ville>
+         <ville>Guayaquil</ville>
+         <ville>Cuenca</ville>
+         <ville>Santo Domingo de los Colorados</ville>
+      </villes>
+      <aeroports>
+         <name>Seymour</name>
+         <name>Jose Joaquin De Olmedo Intl</name>
+         <name>Mariscal Sucre Intl</name>
+         <name>Mariscal Lamar</name>
+      </aeroports>
+   </pays>
+   <pays name="Falkland Islands" code="FALK" population="2931">
+      <villes>
+         <ville>Stanley</ville>
+      </villes>
+      <aeroports>
+         <name>Port Stanley</name>
+      </aeroports>
+   </pays>
+</america>

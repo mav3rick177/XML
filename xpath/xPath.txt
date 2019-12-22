@@ -1,0 +1,52 @@
+1-Quelle est la riviere la plus longue au monde?
+
+concat(/*/river[length=max(/*/river/length)]/name,' ' , max(/*/river/length))
+
+2-par quels pays passe t-il
+
+/*/country[@car_code=/*/river[name="Yangtze"]/located/@country]/name
+
+3-Quels sont les pays limitroplus de l'allemange
+
+/*/country[@car_code=/*/country[name="Germany"]/border/@country]/name
+
+4-Quelle est la superficie la Turquie en Europe
+
+/*/country[name="Turkey"]/encompassed[@continent="europe"]/@percentage
+*
+/*/country[name="Turkey"]/@area
+
+5-Combien de juifs en Afrique
+
+
+
+6-Quels sont les pays qui bordent l'ocean atlantique
+
+/*/country[@car_code= (/*/sea[name="Atlantic Ocean"]/located/@country)]/name
+
+7-Quelle est la superficie totale du globale? 
+ratio mer/terre
+
+concat(sum(/*/continent/area) div (sum(/*/lake/area) + sum(/*/river/area) + sum(/*/sea/area) + sum(/*/continent/area))* 100,'% of land/',sum(sum(/*/lake/area) + sum(/*/river/area) + sum(/*/sea/area)) div (sum(/*/lake/area) + sum(/*/river/area) + sum(/*/sea/area) + sum(/*/continent/area))* 100,'% of sea')
+
+8-Quel est le plus grand lac au monde
+
+/*/lake[area=max(/*/lake/area)]/name
+
+9-Quelle est la riviere qui traverse le plus grand nombre de pays?
+
+/*/river[count(located)=max(/*/river/count(located))]/name
+
+lesquels?
+
+/*/country[@car_code=/*/river[count(located)=max(/*/river/count(located))]/located/@country]/name
+
+
+dtd doctype problem xml schema (markdown/ raport github)
+
+
+
+
+tri name ascendant
+pays - population(last)
+tri population(asc/desc)

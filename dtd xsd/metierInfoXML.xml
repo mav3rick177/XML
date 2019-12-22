@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE metier_info SYSTEM "metierInfoDTD.dtd"> -->
+<metiers_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="metierInfoXSD.xsd">
+	<metier>
+		<nom>chef de projet informatique</nom>
+		<salaire-moy>25.000</salaire-moy>
+		<formations>
+			<formation niveau="Bac+5">
+				<type>Developpent informatique</type>
+				<type>Systèmes d'Information</type>
+			</formation>
+		</formations>
+		<experience minAnnee="5ans d experience"/>
+		<competences>
+			<competence>symfony 3</competence>
+			<competence>responsive designe</competence>
+		</competences>
+		<taches>
+			<tache>
+				<libele>lancement de nouvelles fonctionnalités</libele>
+				<description>lancement de nouvelles fonctionnalités</description>
+			</tache>
+			<tache>
+				<libele>participer à la "conception" de la solution</libele>
+				<description>participer à la "conception" de la solution</description>
+			</tache>
+			<tache>
+				<libele>piloter le projet et effectuer le reporting d avancement</libele>
+				<description>piloter le projet et effectuer le reporting d avancement</description>
+			</tache>
+		</taches>
+		<secteurs>
+			<secteur typeSecteur="priver">Informatique - Systèmes d'Information</secteur>
+		</secteurs>
+	</metier>
+	<metier>
+		<nom>développeur WordPress expérimenté</nom>
+		<salaire-moy>15.000</salaire-moy>
+		<formations>
+			<formation niveau="Bac+2">
+				<type>Developpent informatique</type>
+				<type>Systèmes d'Information</type>
+			</formation>
+		</formations>
+		<experience minAnnee="expérience professionnelle : 2 années minimum"/>
+		<competences>
+			<competence>wordpress</competence>
+			<competence>html5/css3</competence>
+			<competence>php, mysql, javascript, wordpress, indispensable</competence>
+			<competence>librairies php : laravel, symphony, zend.- webservices : rest, soapplus</competence>
+			<competence>framework php (cakephp ou symfony ou code igniter)</competence>
+			<competence>administration système</competence>
+		</competences>
+		<taches>
+			<tache>
+				<libele>responsable du bon fonctionnement d'un site internet</libele>
+				<description>responsable du bon fonctionnement d'un site internet</description>
+			</tache>
+			<tache>
+				<libele>apporte des solutions aux problèmes présents dans un site déjà en ligne</libele>
+				<description>apporte des solutions aux problèmes présents dans un site déjà en ligne</description>
+			</tache>
+			<tache>
+				<libele> la réalisation des sites internet de a à z réalisent l’ensemble des fonctionnalités techniques d’un site ou d'une application web</libele>
+				<description> la réalisation des sites internet de a à z réalisent l’ensemble des fonctionnalités techniques d’un site ou d'une application web</description>
+			</tache>
+		</taches>
+		<secteurs>
+			<secteur typeSecteur="priver">Informatique - Développement</secteur>
+		</secteurs>
+	</metier>
+</metiers_info>		
