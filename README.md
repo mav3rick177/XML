@@ -1,2 +1,2 @@
-# XML\
+# XML
 RADOUANI Yasser - IIBDCC2
